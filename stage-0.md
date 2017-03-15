@@ -1,6 +1,4 @@
-
-
-## Setting up
+# Setting up
 
 ---
 
@@ -24,7 +22,15 @@
 
 * [Brackets](http://brackets.io/?lang=en)
 
-##  Think like a Programmer
+## 
+
+# Think like a Programmer
+
+---
 
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
+
+
+
+這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_
 
