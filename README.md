@@ -1,12 +1,14 @@
-# Intro to Programming Nanodegree 
+# 
+
+# Intro to Programming Nanodegree
 
 Welcome to the Nanodegree
 
 Stage 0: Getting Started with HTML
 
-Stage 1: Make a Web Page 
+Stage 1: Make a Web Page
 
-Stage 2: Code Your Own Quiz 
+Stage 2: Code Your Own Quiz
 
 Stage 3: Create a Movie Website
 
