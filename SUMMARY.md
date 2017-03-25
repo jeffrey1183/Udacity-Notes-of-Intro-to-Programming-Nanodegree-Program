@@ -35,4 +35,5 @@
 * [Python Resource](python-resource.md)
 * [Stage 5：Intro:Choose Your Next Steps](stage-5introchoose-your-next-steps.md)
   * [5.1 Meet Javascript](stage-5introchoose-your-next-steps/51-meet-javascript.md)
+  * [5.2 The Power of API](stage-5introchoose-your-next-steps/52-the-power-of-api.md)
 
