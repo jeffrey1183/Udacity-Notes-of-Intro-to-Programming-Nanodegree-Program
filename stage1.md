@@ -6,5 +6,7 @@
 
 ### 1.2 Creating a structured document
 
+### **1.3 Adding CSS style and HTML structure**
+
 
 
