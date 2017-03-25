@@ -40,4 +40,9 @@
   * [5.5 Making Pages Look Good](stage-5introchoose-your-next-steps/55-making-pages-look-good.md)
   * [5.6 Go Explore](stage-5introchoose-your-next-steps/56-go-explore.md)
 * [Python Resource](python-resource.md)
+* [Discover your path](discover-your-path.md)
+  * [4.1: Front End Programmer](discover-your-path/41-front-end-programmer.md)
+  * [4.2 Back-End Programming](discover-your-path/42-back-end-programming.md)
+  * [4.3 Mobile Programming](discover-your-path/43-mobile-programming.md)
+  * [4.4 Data Analyst](discover-your-path/44-data-analyst.md)
 
