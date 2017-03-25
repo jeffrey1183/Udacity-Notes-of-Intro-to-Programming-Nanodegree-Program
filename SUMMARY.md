@@ -32,8 +32,12 @@
   * [4.6 Validation](stage4/46-validation.md)
   * [4.7 HTML Templates](stage4/47-html-templates.md)
   * [4.8 Databases](stage4/48-databases.md)
-* [Python Resource](python-resource.md)
 * [Stage 5：Intro:Choose Your Next Steps](stage-5introchoose-your-next-steps.md)
   * [5.1 Meet Javascript](stage-5introchoose-your-next-steps/51-meet-javascript.md)
   * [5.2 The Power of API](stage-5introchoose-your-next-steps/52-the-power-of-api.md)
+  * [5.3 Recursion](stage-5introchoose-your-next-steps/53-recursion.md)
+  * [5.4 Solving big problems](stage-5introchoose-your-next-steps/54-solving-big-problems.md)
+  * [5.5 Making Pages Look Good](stage-5introchoose-your-next-steps/55-making-pages-look-good.md)
+  * [5.6 Go Explore](stage-5introchoose-your-next-steps/56-go-explore.md)
+* [Python Resource](python-resource.md)
 
