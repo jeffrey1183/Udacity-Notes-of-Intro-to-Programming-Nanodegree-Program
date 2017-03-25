@@ -30,5 +30,9 @@
   * [4.3 Forms](stage4/43-forms.md)
   * [4.5 Working with App Engine](stage4/45-working-with-app-engine.md)
   * [4.6 Validation](stage4/46-validation.md)
+  * [4.7 HTML Templates](stage4/47-html-templates.md)
+  * [4.8 Databases](stage4/48-databases.md)
 * [Python Resource](python-resource.md)
+* [Stage 5：Intro:Choose Your Next Steps](stage-5introchoose-your-next-steps.md)
+  * [5.1 Meet Javascript](stage-5introchoose-your-next-steps/51-meet-javascript.md)
 
