@@ -15,9 +15,7 @@
 
 * **兩個 name 都設一樣**
 
-* **&lt;input type="text" name="food"&gt;**
 
-* **&lt;input type="hidden" name="food" value="eggs"&gt;**
 
 **  
 **
