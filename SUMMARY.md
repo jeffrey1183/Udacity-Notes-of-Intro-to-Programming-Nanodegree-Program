@@ -32,7 +32,7 @@
   * [4.6 Validation](stage4/46-validation.md)
   * [4.7 HTML Templates](stage4/47-html-templates.md)
   * [4.8 Databases](stage4/48-databases.md)
-* [Stage 5：Intro:Choose Your Next Steps](stage-5introchoose-your-next-steps.md)
+* [Stage 5：選擇下一步](stage-5introchoose-your-next-steps.md)
   * [5.1 Meet Javascript](stage-5introchoose-your-next-steps/51-meet-javascript.md)
   * [5.2 The Power of API](stage-5introchoose-your-next-steps/52-the-power-of-api.md)
   * [5.3 Recursion](stage-5introchoose-your-next-steps/53-recursion.md)
@@ -45,4 +45,8 @@
   * [4.2 Back-End Programming](discover-your-path/42-back-end-programming.md)
   * [4.3 Mobile Programming](discover-your-path/43-mobile-programming.md)
   * [4.4 Data Analyst](discover-your-path/44-data-analyst.md)
+* [前端工程師](qian-duan-gong-cheng-shi.md)
+  * [前端工程師職業道路簡介](qian-duan-gong-cheng-shi/qian-duan-gong-cheng-shi-zhi-ye-dao-lu-jian-jie.md)
+  * [第 0 課 - 準備工作](qian-duan-gong-cheng-shi/di-0-ke-zhun-bei-gong-zuo.md)
+  * [Javascript 學習資源](qian-duan-gong-cheng-shi/javascript-xue-xi-zi-yuan.md)
 
