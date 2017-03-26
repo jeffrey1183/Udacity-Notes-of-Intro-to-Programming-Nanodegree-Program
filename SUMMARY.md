@@ -30,6 +30,7 @@
   * [4.3 Forms](stage4/43-forms.md)
   * [4.5 Working with App Engine](stage4/45-working-with-app-engine.md)
   * [4.6 Validation](stage4/46-validation.md)
+  * [4.7 HTML Template](stage4/47-html-template.md)
   * [4.8 Databases](stage4/48-databases.md)
 * [Stage 5：選擇下一步](stage-5introchoose-your-next-steps.md)
   * [5.1 Meet Javascript](stage-5introchoose-your-next-steps/51-meet-javascript.md)
@@ -48,5 +49,4 @@
   * [前端工程師職業道路簡介](qian-duan-gong-cheng-shi/qian-duan-gong-cheng-shi-zhi-ye-dao-lu-jian-jie.md)
   * [第 0 課 - 準備工作](qian-duan-gong-cheng-shi/di-0-ke-zhun-bei-gong-zuo.md)
   * [Javascript 學習資源](qian-duan-gong-cheng-shi/javascript-xue-xi-zi-yuan.md)
-* [4.7](47.md)
 

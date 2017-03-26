@@ -1,4 +1,4 @@
-4.7HTMLTemplates
+# 4.7 HTML Templates
 
 有趣的 tag: [marquee](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee) 跑馬燈
 
@@ -43,11 +43,13 @@ ShoppingListTakeOne-較麻煩
 
 * 上半頁：output\_hidden最後再加進去
 
+
+
 IntroducingTemplate
 
-* Atemplatelibrarywhichtobuildcomplicatedstrings\(Webapplication裡通常是HTML\)
+* Atemplate library which to build complicated strings\(Webapplication裡通常是HTML\)
 
-* 這裡要介紹的templatelibrary是jinja2
+* 這裡要介紹的 templatelibrary 是 jinja2
 
 * 原因
 
