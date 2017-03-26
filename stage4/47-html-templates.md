@@ -112,7 +112,7 @@
 
 ![](https://lh3.googleusercontent.com/04R540rRewnsGeEUhPqjdUnlsi4JomavXz2c0inp_lVARrindhdpiaHBFdtrVQvCkwU-pcUoW6_JDqUvQ2x1UYkylmD5J-OYAR32aOLvax3iyLxuyZvqiyQ18BEFzBDgr2z0Svf2)
 
-**name="steve" 除了影響有兩個 \*\* 的預留變數外，兩個藍色的框框也有影響**
+**name="steve" 除了影響有兩個米字的預留變數外，兩個藍色的框框也有影響**
 
 **  
 **
