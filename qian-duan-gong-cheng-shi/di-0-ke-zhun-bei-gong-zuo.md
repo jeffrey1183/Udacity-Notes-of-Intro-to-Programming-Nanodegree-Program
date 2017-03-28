@@ -19,13 +19,28 @@
 
 * 把下載的檔案解壓縮，會看到這些檔案
 
-* **index.html**: The HTML file that will display your project. Open this file in the browser to see your work.
+  * **index.html**: The HTML file that will display your project. Open this file in the browser to see your work.
 
-* **css/style.css**: The styles for your resumer page.
+  * **css/style.css**: The styles for your resumer page.
 
-* **js/helper.js**: A JavaScript file with some helpful functions for your project. You won't have to modify this file until Problem Set 3
-* **js/jQuery.js**: A JavaScript library file that enables jQuery \(接下來會學到\)
-* **js/resumerBuilder.js**: This is where you'll do most of your coding for this project. It's initially empty but you'll soon fill it with lots of cool code!
+  * **js/helper.js**: A JavaScript file with some helpful functions for your project. You won't have to modify this file until Problem Set 3
+
+  * **js/jQuery.js**: A JavaScript library file that enables jQuery \(接下來會學到\)
+  * **js/resumerBuilder.js**: This is where you'll do most of your coding for this project. It's initially empty but you'll soon fill it with lots of cool code!
+
+## 為什麽我們將會看到一些HTML？
+
+本課程主要在教 JavaScript，JavaScript 是讓網站“動”起來的語言，通常會用 JavaScript 操作網站的 HTML。在該課中，大家會通過使用 JavaScript 編寫 HTML 來生成一個網站。
+
+HTML 的全稱是超文本標記語言。叫它超文本只是為了聽起來很酷，其實就是文本。
+
+## 說明 Index.html
+
+```
+<DOCTYPE
+```
+
+
 
 
 

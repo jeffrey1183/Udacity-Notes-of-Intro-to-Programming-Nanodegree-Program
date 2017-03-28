@@ -39,8 +39,6 @@
 
 #  {#-javascript-}
 
-##  {#javascript}
-
 ## 先修要求
 
 希望你能具有一些其他語言的編程經驗，例如 Python，並且能夠描述循環、函數和對象等概念。我們的[計算機科學導論](https://cn.udacity.com/course/intro-to-computer-science--cs101/)和[編程基礎：Python ](https://cn.udacity.com/course/programming-foundations-with-python--ud036/)是不錯的入門學習課程。
