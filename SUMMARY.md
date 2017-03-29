@@ -49,4 +49,8 @@
   * [前端工程師職業道路簡介](qian-duan-gong-cheng-shi/qian-duan-gong-cheng-shi-zhi-ye-dao-lu-jian-jie.md)
   * [第 0 課 - 準備工作](qian-duan-gong-cheng-shi/di-0-ke-zhun-bei-gong-zuo.md)
   * [Javascript 學習資源](qian-duan-gong-cheng-shi/javascript-xue-xi-zi-yuan.md)
+  * [學習資源](qian-duan-gong-cheng-shi/xue-xi-zi-yuan.md)
+    * [Document Object Model \(DOM\)](qian-duan-gong-cheng-shi/xue-xi-zi-yuan/document-object-model-dom.md)
+      * [Introduction to the DOM](qian-duan-gong-cheng-shi/xue-xi-zi-yuan/document-object-model-dom/introduction-to-the-dom.md)
+* [其他課程推薦](qi-ta-ke-cheng-tui-jian.md)
 
