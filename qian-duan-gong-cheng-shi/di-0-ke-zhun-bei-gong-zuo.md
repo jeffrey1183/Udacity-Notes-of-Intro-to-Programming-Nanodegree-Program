@@ -26,6 +26,7 @@
   * **js/helper.js**: A JavaScript file with some helpful functions for your project. You won't have to modify this file until Problem Set 3
 
   * **js/jQuery.js**: A JavaScript library file that enables jQuery \(接下來會學到\)
+
   * **js/resumerBuilder.js**: This is where you'll do most of your coding for this project. It's initially empty but you'll soon fill it with lots of cool code!
 
 ## 為什麽我們將會看到一些HTML？
@@ -34,11 +35,21 @@
 
 HTML 的全稱是超文本標記語言。叫它超文本只是為了聽起來很酷，其實就是文本。
 
-## 說明 Index.html
+## Let's Start With Index.html
 
-```
-<DOCTYPE
-```
+It describes the content and layout of elements on a web page.
+
+* 在 head section 裡會找到一些 script links
+* 在 body 裡會找到像
+  * 文案, Hello World
+  * div id = "main"
+    * &lt;div&gt;s create empty boxes. 這個例子我們給他 Unique ID of main,之後 javascript 會用到
+
+![](/assets/螢幕快照 2017-03-29 下午3.16.31.png)
+
+
+
+現在程式架構上貌似有很多 sections
 
 
 
