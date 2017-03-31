@@ -54,16 +54,34 @@ It describes the content and layout of elements on a web page.
 * 以這個案例中的 Work Experience 為例
   * 右邊就有一堆寫死的資料，左邊就還是 Empty
   * 右邊適合初學，但長期下來不是好方法，因為每次修改都要開 HTML 修改 
-* 這個專案我們會用左邊的方法
+* 這個專案我們會用左邊的方法。
+  * The browser will render this page just saying, Hello World.
 
 ![](/assets/螢幕快照 2017-03-31 下午1.32.17.png)
 
-另外在 Header 裡我們會看到下面的 script tag
+## Script Tag
+
+在 Header 裡我們會看到下面 2個 script tag，在備註中都寫了 tag 的作用
 
 ```html
 <script src="js/jQuery.js"></script> // link to jQuery library
 <script src="js/helper.js"></script> // which contains some simple helper Javascript we've prepared for the project
 ```
+
+下方還有1個 script tag
+
+```html
+<script src="js/resumeBuilder.js"></script> // Tell the browser to download and execute some javascript 
+
+```
+
+* We will use the script to add HTML content to the main section of the HTML
+
+
+
+
+
+
 
 
 
