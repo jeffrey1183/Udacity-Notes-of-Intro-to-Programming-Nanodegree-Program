@@ -51,13 +51,19 @@ It describes the content and layout of elements on a web page.
 
 * Web developers 主要有兩種策略
 * 右邊是 hardcode，就是寫死;左邊是用 HTML Template，fill it with data programmatically when user requests a page.
-* 以 Work Experience 為例，右邊就有一堆寫死的資料，左邊就還是 Empty
+* 以這個案例中的 Work Experience 為例
+  * 右邊就有一堆寫死的資料，左邊就還是 Empty
+  * 右邊適合初學，但長期下來不是好方法，因為每次修改都要開 HTML 修改 
+* 這個專案我們會用左邊的方法
 
 ![](/assets/螢幕快照 2017-03-31 下午1.32.17.png)
 
+另外在 Header 裡我們會看到下面的 script tag
 
-
-
+```html
+<script src="js/jQuery.js"></script> // link to jQuery library
+<script src="js/helper.js"></script> // which contains some simple helper Javascript we've prepared for the project
+```
 
 
 
