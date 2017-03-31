@@ -47,11 +47,17 @@ It describes the content and layout of elements on a web page.
 
 ![](/assets/螢幕快照 2017-03-29 下午3.16.31.png)
 
-
-
 ### 現在程式架構上貌似有很多 sections，但填入履歷資料有哪些方式？
 
-* 主要有 two obvious strategies ?
+* Web developers 主要有兩種策略
+* 右邊是 hardcode，就是寫死;左邊是用 HTML Template，fill it with data programmatically when user requests a page.
+* 以 Work Experience 為例，右邊就有一堆寫死的資料，左邊就還是 Empty
+
+![](/assets/螢幕快照 2017-03-31 下午1.32.17.png)
+
+
+
+
 
 
 
