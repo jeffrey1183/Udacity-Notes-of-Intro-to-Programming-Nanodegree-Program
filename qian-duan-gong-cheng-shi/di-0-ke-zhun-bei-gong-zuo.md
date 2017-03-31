@@ -49,9 +49,9 @@ It describes the content and layout of elements on a web page.
 
 
 
-現在程式架構上貌似有很多 sections
+### 現在程式架構上貌似有很多 sections，但填入履歷資料有哪些方式？
 
-
+* 主要有 two obvious strategies ?
 
 
 
