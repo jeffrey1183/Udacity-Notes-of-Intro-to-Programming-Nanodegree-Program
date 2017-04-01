@@ -81,7 +81,8 @@ It describes the content and layout of elements on a web page.
 * 上面是 Hello World
 * 中間是 Empty resume sections
 * 下面是 JS
-* 右邊是 how it would look in browser，上面提到的 resumeBuilder.js 會去撈資料，目前設定了一個判斷
+* 右邊是 how it would look in browser
+  * resumeBuilder.js 會去撈資料，改變頁面的內容，目前設定了一個判斷
 
 ```js
 if(resume.content ===""){
