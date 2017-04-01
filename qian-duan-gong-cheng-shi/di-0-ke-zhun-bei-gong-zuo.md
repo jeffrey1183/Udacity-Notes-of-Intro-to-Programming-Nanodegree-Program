@@ -29,13 +29,11 @@
 
   * **js/resumerBuilder.js**: This is where you'll do most of your coding for this project. It's initially empty but you'll soon fill it with lots of cool code!
 
-## 為什麽我們將會看到一些HTML？
-
 本課程主要在教 JavaScript，JavaScript 是讓網站“動”起來的語言，通常會用 JavaScript 操作網站的 HTML。在該課中，大家會通過使用 JavaScript 編寫 HTML 來生成一個網站。
 
 HTML 的全稱是超文本標記語言。叫它超文本只是為了聽起來很酷，其實就是文本。
 
-## Let's Start With Index.html
+## 簡歷專案 - Index.html
 
 It describes the content and layout of elements on a web page.
 
@@ -59,7 +57,7 @@ It describes the content and layout of elements on a web page.
 
 ![](/assets/螢幕快照 2017-03-31 下午1.32.17.png)
 
-## Script Tag
+### Script Tag
 
 在 Header 裡我們會看到下面 2個 script tag，在備註中都寫了 tag 的作用
 
@@ -76,7 +74,9 @@ It describes the content and layout of elements on a web page.
 
 * We will use the script to add HTML content to the main section of the HTML
 
-# Overview
+### Overview of the index.html
+
+![](/assets/螢幕快照 2017-04-01 下午5.44.41.png)
 
 * 上面是 Hello World
 * 中間是 Empty resume sections
@@ -90,5 +90,17 @@ hide.resume();
 }
 ```
 
-![](/assets/螢幕快照 2017-04-01 下午5.44.41.png)
+
+
+## 簡歷專案的 CSS 跟 JS
+
+* CSS 檔案存在 style.css 中，用來定義頁面風格，這門課不會學到 CSS，想了解更多可以看[學習資料](/qian-duan-gong-cheng-shi/xue-xi-zi-yuan.md)
+* jQuery 是一個強大且主流的 javascript library，這門課會講到基本概念和初階的 functions，這門課的 jQuery 就算用 javascript 也能做，但是**主要是希望能增加使用 third party library 的經驗**。
+  * It lets us inspect and manipulate the elements in a page.
+
+
+
+## 練習: 使用瀏覽器的 Console
+
+
 
