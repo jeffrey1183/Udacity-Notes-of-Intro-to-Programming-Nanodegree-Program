@@ -76,9 +76,18 @@ It describes the content and layout of elements on a web page.
 
 * We will use the script to add HTML content to the main section of the HTML
 
+# Overview
+
+* 上面是 Hello World
+* 中間是 Empty resume sections
+* 下面是 JS
+* 右邊是 how it would look in browser，上面提到的 resumeBuilder.js 會去撈資料，目前設定了一個判斷
+
+```js
+if(resume.content ===""){
+hide.resume();
+}
+```
+
 ![](/assets/螢幕快照 2017-04-01 下午5.44.41.png)
-
-
-
-
 
