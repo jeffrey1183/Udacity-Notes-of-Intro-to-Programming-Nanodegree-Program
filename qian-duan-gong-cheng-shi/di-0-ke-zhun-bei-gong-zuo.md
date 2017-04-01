@@ -71,15 +71,12 @@ It describes the content and layout of elements on a web page.
 下方還有1個 script tag
 
 ```html
-<script src="js/resumeBuilder.js"></script> // Tell the browser to download and execute some javascript 
-
+<script src="js/resumeBuilder.js"></script> // Tell the browser to download and execute some javascript
 ```
 
 * We will use the script to add HTML content to the main section of the HTML
 
-
-
-
+![](/assets/螢幕快照 2017-04-01 下午5.44.41.png)
 
 
 
