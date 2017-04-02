@@ -106,16 +106,26 @@ hide.resume();
 * 讓開發者檢視網站載入跟運行。
 * Dev tools 還有一個 Console，用來查看 Javascript 對網站的作用。
 
-
-
-### 實際練習
+### 實際練習 - 在瀏覽器使用 Console
 
 1. 打開 Chrome 
 2. 右鍵按下檢查 或 Cmd+Opt+J\(Mac\)
 3. 然後在 Console 裡打 console.log\("Hello world"\);
 4. 顯示 Hello world
 
-![](/assets/螢幕快照 2017-04-02 下午2.59.48.png)
+![](/assets/螢幕快照 2017-04-02 下午2.59.48.png)_**Console.log is basic print command for javascript.**_
+
+* 不要忘記句尾的分號，雖然大部分的 javascript interpreter 都很聰明，知道那邊需要分號，讓程式一樣可以運行。
+
+_**Console.log 就像 python 的 print command 可以用在 debug。**_
+
+* Python 不用加分號
+
+_**Undefined 代表沒有回傳值，告訴我們 console.log 沒有創造需要儲存 new data**_
+
+![](/assets/螢幕快照 2017-04-02 下午3.13.00.png)
+
+如果我們用其他 command 像 document.URL 就會得到這個頁面的 URL 的字串，就不會顯示 undefined 
 
 ### 不同 browser 打開 Javascript Console 的方式稍微不同：
 
@@ -123,8 +133,6 @@ hide.resume();
 * FireFox：轉到工具 \(Tools\) &gt; Web 開發者 \(Web Developer\) &gt; Web 控制台 \(Web Console\) \([指南](https://developer.mozilla.org/en-US/docs/Tools/Browser_Console)\)
 * IE 11：轉到工具 \(Tools\) &gt; 開發者工具 \(Developer Tools\) &gt; 控制台 \(Console\) 圖標 \([指南](http://msdn.microsoft.com/en-us/library/ie/bg182326%28v=vs.85%29.aspx#The_Console_tool__CTRL___2_)\)
 * Safari：打開菜單欄中的開發 \(Develop\) 菜單： 首選項 \(Preferences\) &gt; 高級 \(Advanced\) &gt; 顯示開發 \(Show Develop\) 菜單。轉到開發 \(Develop\) &gt; 顯示 Web Inspector \(Show Web Inspector\) \([指南](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)\)
-
-
 
 
 
