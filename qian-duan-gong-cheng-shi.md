@@ -1,0 +1,51 @@
+
+
+前端工程師使用 Javascript 來建立交互式網頁體驗，在這門課你會透過創建一個履歷的專案，來學習 Javascript 的基礎知識。如果遇到問題可以到[論壇](https://www.gitbook.com/book/jeffrey1183/udacity-notes-intro-to-programming/edit#)發問。上完這堂課你會比較瞭解前端適不適合你。
+
+# 
+
+# 學習計劃
+
+---
+
+## 第 1 課：準備活動
+
+了解我們將在本課程中使用的工具，並開始使用一小段代碼修改網頁。
+
+* 簡歷項目簡介
+* 簡歷組成部分
+* 瀏覽器開發者工具簡介
+* 在控制臺中運行命令
+* 將元素添加到頁面中
+
+## 第 2 課：數據類型
+
+通過使用變量和高級數據結構（例如 JSON、對象和數組）編寫更加複雜的代碼，進一步了解 JavaScript，學習該語言的構建基礎。
+
+* 變量
+* 字符串
+* 評估值
+* 數組
+* 對象
+* JSON
+* 驗證 JSON
+
+## 第 3 課：流程控制
+
+完成簡歷，並學習如何使用條件語句、循環和函數使你的代碼更加模塊化和易於重複利用。
+
+* 條件語句
+* For 和 while 循環
+* 函數
+* 封裝
+
+# 
+
+## 先修要求
+
+希望你能具有一些其他語言的編程經驗，例如 Python，並且能夠描述循環、函數和對象等概念。我們的[計算機科學導論](https://www.gitbook.com/book/jeffrey1183/udacity-notes-intro-to-programming/edit#)和[編程基礎：Python](https://www.gitbook.com/book/jeffrey1183/udacity-notes-intro-to-programming/edit#)是不錯的入門學習課程。
+
+雖然我們會介紹基本編程技巧的原理，但是本課程側重的是如何用 JavaScript 實現這些原理，而不是介紹原理本身。
+
+不要求掌握 HTML 和 CSS，但是了解 CSS 有助於你個性化你的簡歷項目。
+
