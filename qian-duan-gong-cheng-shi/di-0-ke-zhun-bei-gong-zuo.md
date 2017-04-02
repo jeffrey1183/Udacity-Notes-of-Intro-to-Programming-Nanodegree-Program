@@ -90,17 +90,41 @@ hide.resume();
 }
 ```
 
-
-
 ## 簡歷專案的 CSS 跟 JS
 
 * CSS 檔案存在 style.css 中，用來定義頁面風格，這門課不會學到 CSS，想了解更多可以看[學習資料](/qian-duan-gong-cheng-shi/xue-xi-zi-yuan.md)
 * jQuery 是一個強大且主流的 javascript library，這門課會講到基本概念和初階的 functions，這門課的 jQuery 就算用 javascript 也能做，但是**主要是希望能增加使用 third party library 的經驗**。
   * It lets us inspect and manipulate the elements in a page.
 
-
-
 ## 練習: 使用瀏覽器的 Console
+
+* We will use two tools, text editor to code and a browser to inspect our work.
+* 現在的瀏覽器內建一套強大的工具，通常稱作 developer tools. 
+
+### Developer Tools 簡介
+
+* 讓開發者檢視網站載入跟運行。
+* Dev tools 還有一個 Console，用來查看 Javascript 對網站的作用。
+
+
+
+### 實際練習
+
+1. 打開 Chrome 
+2. 右鍵按下檢查 或 Cmd+Opt+J\(Mac\)
+3. 然後在 Console 裡打 console.log\("Hello world"\);
+4. 顯示 Hello world
+
+![](/assets/螢幕快照 2017-04-02 下午2.59.48.png)
+
+### 不同 browser 打開 Javascript Console 的方式稍微不同：
+
+* Chrome：轉到查看 \(View\) &gt; 開發者 \(Developer\) &gt; JavaScript 控制台 \(JavaScript Console\) \([指南](https://developer.chrome.com/devtools/docs/console)\)
+* FireFox：轉到工具 \(Tools\) &gt; Web 開發者 \(Web Developer\) &gt; Web 控制台 \(Web Console\) \([指南](https://developer.mozilla.org/en-US/docs/Tools/Browser_Console)\)
+* IE 11：轉到工具 \(Tools\) &gt; 開發者工具 \(Developer Tools\) &gt; 控制台 \(Console\) 圖標 \([指南](http://msdn.microsoft.com/en-us/library/ie/bg182326%28v=vs.85%29.aspx#The_Console_tool__CTRL___2_)\)
+* Safari：打開菜單欄中的開發 \(Develop\) 菜單： 首選項 \(Preferences\) &gt; 高級 \(Advanced\) &gt; 顯示開發 \(Show Develop\) 菜單。轉到開發 \(Develop\) &gt; 顯示 Web Inspector \(Show Web Inspector\) \([指南](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)\)
+
+
 
 
 
