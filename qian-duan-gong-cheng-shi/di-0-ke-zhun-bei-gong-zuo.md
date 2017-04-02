@@ -125,7 +125,7 @@ _**Undefined 代表沒有回傳值，告訴我們 console.log 沒有創造需要
 
 ![](/assets/螢幕快照 2017-04-02 下午3.13.00.png)
 
-如果我們用其他 command 像 document.URL 就會得到這個頁面的 URL 的字串，就不會顯示 undefined 
+如果我們用其他 command 像 document.URL 就會得到這個頁面的 URL 的字串，就不會顯示 undefined
 
 ### 不同 browser 打開 Javascript Console 的方式稍微不同：
 
@@ -133,6 +133,24 @@ _**Undefined 代表沒有回傳值，告訴我們 console.log 沒有創造需要
 * FireFox：轉到工具 \(Tools\) &gt; Web 開發者 \(Web Developer\) &gt; Web 控制台 \(Web Console\) \([指南](https://developer.mozilla.org/en-US/docs/Tools/Browser_Console)\)
 * IE 11：轉到工具 \(Tools\) &gt; 開發者工具 \(Developer Tools\) &gt; 控制台 \(Console\) 圖標 \([指南](http://msdn.microsoft.com/en-us/library/ie/bg182326%28v=vs.85%29.aspx#The_Console_tool__CTRL___2_)\)
 * Safari：打開菜單欄中的開發 \(Develop\) 菜單： 首選項 \(Preferences\) &gt; 高級 \(Advanced\) &gt; 顯示開發 \(Show Develop\) 菜單。轉到開發 \(Develop\) &gt; 顯示 Web Inspector \(Show Web Inspector\) \([指南](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)\)
+
+
+
+### Hacking Udacity - 用 Console 操控網站
+
+1. 開啟新頁面，進入 udacity,com
+2. 打開 Console
+3. 跑下面這條 Command
+
+```
+$(".super-header-wrapper").html("<img style='width:100%' src='http://goo.gl/WCrBmS'>");
+```
+
+* Don't worry if you aren't familiar with CSS classes. The main point here is that`.super-header-wrapper`
+
+  is an element on the page that contains the background and the jQuery method`.html()`changes what's inside it.
+
+* 但是 Udacity 的首頁一直在更新，原本這條 command 是要換首頁的圖
 
 
 
