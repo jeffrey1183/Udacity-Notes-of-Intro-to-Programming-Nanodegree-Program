@@ -30,9 +30,11 @@
 
 ## 先修要求 {#-}
 
-**你可以阅读和编写基本的 Python 代码。**这门课程会用到 Python 编程练习。如果你之前没有使用过 Python，请参阅我们的[Python：编程基础](https://cn.udacity.com/course/programming-foundations-with-python--ud036)课程。
 
-如果你能看懂下面的 Python 代码（或许需要查阅[**random**模块文档](https://docs.python.org/2/library/random.html#random.choice)），那么对于本课程来说你的 Python 知识足够了。
+
+可以閱讀和編寫基本的 Python 代碼。這門課程會用到 Python 編程練習。如果你之前沒有使用過 Python，請參閱我們的Python：[編程基礎課程。](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
+
+如果你能看懂下面的 Python 代碼（或許需要查閱[random模塊文檔](https://docs.python.org/2/library/random.html#random.choice)），那麼對於本課程來說你的 Python 知識足夠了。
 
 ```python
 import random
@@ -50,13 +52,17 @@ else:
     print "%s likes %s!" % (one, two)
 ```
 
-**你可以使用命令行界面（终端）。**本课程中的某些练习题需要使用 Unix 形式的命令行界面来输入指令，运行 Python 程序和访问目录。
 
-如果你已经学习了我们的[如何使用 Git 和 Github](https://cn.udacity.com/course/how-to-use-git-and-github--ud775/)课程，那么本课程中的命令行使用水平和此课程的比较相似。
 
-**你不需要成为前端开发者。**此课程的示例中的确会出现小型网络应用和一些 HTML，但是你不需要用这些语言做出更改。
 
-**你不需要具备任何数据库经验。**这门课程是关系数据库的入门级介绍。
 
-**你需要在计算机上安装一个编程文本编辑器**（例如[Sublime Text](http://www.sublimetext.com/)）。你应该能够使用该编辑器打开和编辑 Python 代码文件。
+你可以使用命令行界面（終端）。本課程中的某些練習題需要使用 Unix 形式的命令行界面來輸入指令，運行 Python 程序和訪問目錄。
+
+如果你已經學習了我們的如何使用 [Git 和 Github課程](https://cn.udacity.com/course/how-to-use-git-and-github--ud775/)，那麼本課程中的命令行使用水平和此課程的比較相似。
+
+**你不需要成為前端開發者。此課程的示例中的確會出現小型網絡應用和一些 HTML，但是你不需要用這些語言做出更改。**
+
+**你不需要具備任何數據庫經驗。這門課程是關系數據庫的入門級介紹。**
+
+
 
