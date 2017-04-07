@@ -48,11 +48,12 @@
 * [其他課程推薦](qi-ta-ke-cheng-tui-jian.md)
 * [前端工程師](qian-duan-gong-cheng-shi.md)
   * [第 0 課 ：準備工作](qian-duan-gong-cheng-shi/di-0-ke-zhun-bei-gong-zuo.md)
-* [學習資源](qian-duan-gong-cheng-shi/xue-xi-zi-yuan.md)
+  * [Resources](qian-duan-gong-cheng-shi/xue-xi-zi-yuan.md)
 * [後端工程師](hou-duan-gong-cheng-shi.md)
   * [Vagrant](hou-duan-gong-cheng-shi/vagrant.md)
   * [第一課：數據與表格](hou-duan-gong-cheng-shi/di-yi-ke-ff1a-shu-ju-yu-biao-ge.md)
 * [iOS 開發者](ios-kai-fa-zhe.md)
   * [開始學習](ios-kai-fa-zhe/kai-shi-xue-xi.md)
 * [Android 開發者](android-kai-fa-zhe.md)
+  * [Resources](android-kai-fa-zhe/resources.md)
 
