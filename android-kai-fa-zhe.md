@@ -12,8 +12,6 @@ Android 系統驅動著全球 14 億部、82% 以上智能手機，為世界各�
 
 為你的手機創建一個生日賀卡應用。你將首先安裝 Android Studio，一個專業開發人員用於編寫 Android 應用的專用程序。然後，從你的電腦中將你創建的簡單應用轉移到你的手機。之後，你將運用在第 1 課中學習到的所有概念構建你的生日賀卡應用，並安裝在你的手機上，向你的朋友和家人展示。
 
-
-
 # Android Development Tips and Tricks {#ios-development-tips-and-tricks}
 
 你將跟著 Kunal 和 Katherine 一起學習 Android 開發入門課程的第一部分。雖然在這一部分，你將不會學習 Java 語言，但是你將設置 Android Studio，並用到 XML。在開始學習之前，請閱讀一些有用的資源，這些資源將在你學習 Android 編程的過程中很有幫助。
@@ -28,7 +26,27 @@ Android 系統驅動著全球 14 億部、82% 以上智能手機，為世界各�
 
 程序員使用可擴展標記語言（簡稱 XML）來描述數據。XML 可以幫助專業 Android 開發者完成各種任務，例如設計用戶界面 \(UI\) 、布局和解析互聯網上的數據源。需要用 XML 實現的大部分功能都可以通過 Android Studio 完成，但是建議你掌握該標記語言的基礎知識。
 
+## 閱讀文章- [如何成為一名 Android 開發者](http://blog.udacity.com/2015/05/become-android-developer.html)
+
+上面的 tips 摘錄至 [如何成為一名 Android 開發者](http://blog.udacity.com/2015/05/become-android-developer.html), 是一篇相當值得看的文章。其他要點如下：
+
+* App 改變以往的消費模式與企業。
+* Android 是 open source，所有的 [source code](https://source.android.com/) 都可以瀏覽
+* [Google Play Services](https://developer.android.com/google/play-services/index.html) 幫助開發者處理 App tasks \(e.g. sign in, authentication, location, and storage\) 讓開發者專注在 App 的核心功能
+
+### Tools to Become an Android Developer
+
+除了上面提到的 Android Studio 跟 XML 外, Java 和 基本的 SQL \(in order to organize the databases within Android apps\)
+
+* SQL is a language for expressing queries to retrieve information from to databases. Once you can write it, there won’t be any questions you can’t ask of your data.
+
+* Java is the most basic building block of Android development is the programming language Java.
+
+* You’ll need to be comfortable with Java concepts like loops, lists, variables, and control structures
+
+### 
+
+### 
 
 
-這些 tips 摘錄至 「[如何成為一名 Android 開發者。](http://blog.udacity.com/2015/05/become-android-developer.html)」
 
