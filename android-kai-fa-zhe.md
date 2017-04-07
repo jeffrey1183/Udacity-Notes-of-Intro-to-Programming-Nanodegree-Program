@@ -44,6 +44,8 @@ Android 系統驅動著全球 14 億部、82% 以上智能手機，為世界各�
 
 * You’ll need to be comfortable with Java concepts like loops, lists, variables, and control structures
 
+* 你需要 Android device 測試
+
 ### 
 
 ### 
