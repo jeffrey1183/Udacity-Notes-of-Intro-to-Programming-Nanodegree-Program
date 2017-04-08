@@ -26,6 +26,16 @@ Android 系統驅動著全球 14 億部、82% 以上智能手機，為世界各�
 
 程序員使用可擴展標記語言（簡稱 XML）來描述數據。XML 可以幫助專業 Android 開發者完成各種任務，例如設計用戶界面 \(UI\) 、布局和解析互聯網上的數據源。需要用 XML 實現的大部分功能都可以通過 Android Studio 完成，但是建議你掌握該標記語言的基礎知識。
 
+# **名詞解釋**
+
+* rounded corners \(圓邊的\)
+* swipe off
+  * 滑手機的動作，有點像把應用程式關掉時，滑掉的動作
+* 程式寫死的英文
+  * hard code
+*  的英文是 backslash
+* comment it out with a double forward slash\(就是這個//\)
+
 ## 閱讀文章- [如何成為一名 Android 開發者](http://blog.udacity.com/2015/05/become-android-developer.html)
 
 上面的 tips 摘錄至 [如何成為一名 Android 開發者](http://blog.udacity.com/2015/05/become-android-developer.html), 是一篇相當值得看的文章。其他要點如下：
