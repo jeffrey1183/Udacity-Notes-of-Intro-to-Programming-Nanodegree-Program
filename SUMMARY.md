@@ -57,4 +57,5 @@
 * [Android 開發者](android-kai-fa-zhe.md)
   * [課程1A：打造佈局](android-kai-fa-zhe/ke-cheng-1a-ff1a-da-zao-bu-ju.md)
   * [Resources](android-kai-fa-zhe/resources.md)
+* [數據分析師](shu-ju-fen-xi-shi.md)
 
