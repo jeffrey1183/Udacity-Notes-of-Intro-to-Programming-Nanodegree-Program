@@ -59,4 +59,5 @@
   * [Resources](android-kai-fa-zhe/resources.md)
 * [數據分析師](shu-ju-fen-xi-shi.md)
   * [安裝 Anaconda](shu-ju-fen-xi-shi/an-zhuang-anaconda.md)
+    * [Virtualenv](shu-ju-fen-xi-shi/an-zhuang-anaconda/virtualenv.md)
 
