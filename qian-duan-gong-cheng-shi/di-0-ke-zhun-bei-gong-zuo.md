@@ -134,11 +134,9 @@ _**Undefined 代表沒有回傳值，告訴我們 console.log 沒有創造需要
 * IE 11：轉到工具 \(Tools\) &gt; 開發者工具 \(Developer Tools\) &gt; 控制台 \(Console\) 圖標 \([指南](http://msdn.microsoft.com/en-us/library/ie/bg182326%28v=vs.85%29.aspx#The_Console_tool__CTRL___2_)\)
 * Safari：打開菜單欄中的開發 \(Develop\) 菜單： 首選項 \(Preferences\) &gt; 高級 \(Advanced\) &gt; 顯示開發 \(Show Develop\) 菜單。轉到開發 \(Develop\) &gt; 顯示 Web Inspector \(Show Web Inspector\) \([指南](https://developer.apple.com/library/mac/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html)\)
 
-
-
 ### Hacking Udacity - 用 Console 操控網站
 
-1. 開啟新頁面，進入 udacity,com
+1. 開啟[頁面](http://udacity.github.io/js-basics/static-home/index.html)
 2. 打開 Console
 3. 跑下面這條 Command
 
@@ -146,11 +144,34 @@ _**Undefined 代表沒有回傳值，告訴我們 console.log 沒有創造需要
 $(".super-header-wrapper").html("<img style='width:100%' src='http://goo.gl/WCrBmS'>");
 ```
 
-* Don't worry if you aren't familiar with CSS classes. The main point here is that`.super-header-wrapper`
+* The main point here is that
 
-  is an element on the page that contains the background and the jQuery method`.html()`changes what's inside it.
+  * `.super-header-wrapper `is an element on the page that contains the background and the jQuery method`.html()`changes what's inside it.
 
-* 但是 Udacity 的首頁一直在更新，原本這條 command 是要換首頁的圖
+## Using .Append\(\) To Build A Page
+
+* 要怎麼在頁面上加東西？我們可以用 jQuery 的 append function 去寫。
+* We can use jQuery's .append function to add HTML to an element on the page.
+* 如果原本 element 就有 HTML content，append 的值就會加進 HTML content 的尾巴
+
+```
+$(#header).append()
+
+// # (pound sign) 
+// Pound sign tells us that we're looking for an element with the id of header.
+```
+
+# 
+
+### 實作
+
+* 打開你的 `resumeBuilder.js` 檔案
+* 在裡面寫 `$("#main").append([yourname]);`
+* 把 yourname 換成你的名字，reload 之後瀏覽你的 index.html 頁面，就會看到
+
+![](/assets/螢幕快照 2017-04-13 下午9.05.01.png)
+
+_**一般可以替代的字串會用 \[ \] 來代表**_
 
 
 
