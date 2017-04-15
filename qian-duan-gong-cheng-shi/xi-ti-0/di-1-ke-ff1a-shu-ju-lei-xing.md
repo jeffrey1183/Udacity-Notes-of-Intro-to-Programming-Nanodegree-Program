@@ -22,7 +22,7 @@ var age = 29;
 
 * Javascript 與 Python 存數字的方式很接近，所有數字都是用 64 bit floating point，都不用為使用 \(float\) 或是 整數\(int\)擔心
 
-### 實例
+### 練習 1
 
 1. 打開上一章節下載的簡歷專案檔案，在 resumeBuilder.js 裡加入下面的程式碼後儲存檔案
 
@@ -32,9 +32,25 @@ var age = 29;
 console.log(firstName);
 ```
 
-   2. 接著打開 index.html 打開 Console 就會看到你輸入的 firstName，如下圖
+1. 接著打開 index.html 打開 Console 就會看到你輸入的 firstName，如下圖
 
-![](/assets/螢幕快照 2017-04-15 下午7.50.02.png)
+![](/assets/螢幕快照 2017-04-15 下午7.png)
+
+### 練習 2
+
+1. 儲存一個變數叫 awesomeThought
+2. 然後把 awesomeThought 賦予 "I am {{name}} and I am awesome! "
+3. console.log\(awesomeThought\)
+
+
+
+# String.replace method
+
+如同之前提到的我們會用 HTML Template 去建置我們的 resume，因此我們會用到
+
+```
+[string].replace([old],[new])
+```
 
 
 
