@@ -24,11 +24,17 @@ var age = 29;
 
 ### 實例
 
-https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19177285960923
+1. 打開上一章節下載的簡歷專案檔案，在 resumeBuilder.js 裡加入下面的程式碼後儲存檔案
 
-到 1:42 秒
+```js
+var firstName = "Jeffrey";
+var age = 29;
+console.log(firstName);
+```
 
+   2. 接著打開 index.html 打開 Console 就會看到你輸入的 firstName，如下圖
 
+![](/assets/螢幕快照 2017-04-15 下午7.50.02.png)
 
 
 
