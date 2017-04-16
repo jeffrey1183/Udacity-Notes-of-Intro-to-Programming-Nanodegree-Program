@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](qian-yan.md)
+* [前言](前言.md)
 * [課程大綱](README.md)
 * [Welcome to the Nanodegree](welcome-to-the-nanodegree.md)
 * [Stage 0：Getting Started with HTML](stage-0.md)
