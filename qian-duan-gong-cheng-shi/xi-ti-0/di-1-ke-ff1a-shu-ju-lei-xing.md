@@ -65,6 +65,15 @@ console.log(newEmail);
 ![](/assets/螢幕快照 2017-04-16 下午1.20.09.png)
 
 
+### String.replace method 練習1 - 替換字串 + 顯示於頁面
+
+```javascript
+var awesomeThought = "I am Jeffrey Wang and I am awesome.!";
+var awesomeFun = awesomeThought.replace("awesome","fun");
+
+```
+* 如果沒有寫 console.log() 在 Javacript console 不會出現。
+
 
 
 
