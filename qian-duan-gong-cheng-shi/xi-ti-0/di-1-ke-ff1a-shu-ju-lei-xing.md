@@ -67,10 +67,12 @@ console.log(newEmail);
 
 ### String.replace method 練習1 - 替換字串 + 顯示於頁面
 
+除了剛剛的替換字串外，我們結合上一篇的 append，把 funThoughts 加進 main 這個區塊，讓頁面顯示 funThoughts 儲存的內容。
+
 ```javascript
 var awesomeThought = "I am Jeffrey Wang and I am awesome.!";
-var awesomeFun = awesomeThought.replace("awesome","fun");
-
+var funThoughts = awesomeThought.replace("awesome","fun");
+$("#main").append(funThoughts);
 ```
 * 如果沒有寫 console.log() 在 Javacript console 不會出現。
 
