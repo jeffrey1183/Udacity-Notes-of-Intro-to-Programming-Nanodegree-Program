@@ -43,14 +43,30 @@ console.log(firstName);
 3. console.log\(awesomeThought\)
 
 
-
 # String.replace method
 
-如同之前提到的我們會用 HTML Template 去建置我們的 resume，因此我們會用到
+如同之前提到的我們會用 HTML Template 去建置我們的 resume，現在先來練習一個改換字串的 method，我先設定一個變數，這個變數
+存入我的 email
 
+
+
+
+```javascript
+// [string].replace([old],[new])
+
+var email ="jeffrey@udacity.com";
+var newEmail = email.replace("udacity","gmail");
+
+// 不要忘記檢查一下有沒有成功運行
+console.log(email);
+console.log(newEmail);
 ```
-[string].replace([old],[new])
-```
+
+![](/assets/螢幕快照 2017-04-16 下午1.20.09.png)
+
+
+
+
 
 
 
