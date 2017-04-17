@@ -76,7 +76,9 @@ $("#main").append(funThoughts);
 ```
 * 如果沒有寫 console.log() 在 Javacript console 不會出現。
 
+### String.replace method 練習2 - 替換字串 + 顯示於頁面
 
+https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19167487900923
 
 
 
