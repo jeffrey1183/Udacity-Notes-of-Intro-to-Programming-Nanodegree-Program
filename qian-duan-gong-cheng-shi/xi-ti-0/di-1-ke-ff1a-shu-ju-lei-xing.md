@@ -76,7 +76,26 @@ $("#main").append(funThoughts);
 ```
 * 如果沒有寫 console.log() 在 Javacript console 不會出現。
 
-### String.replace method 練習2 - 替換字串 + 顯示於頁面
+### Mixing .replace and .append()
+* 現在我們會用 replace 之後
+ *  We can replace placeholders in HTML with real data.
+ *  After that, we just need to append HTML strings to start building our resume.
+
+#### helper.js
+
+圖的右邊就是 helper.js 的內容，裡面有很多專案會用到的 helper data，helper.js 會比 resumebuilder.js (在下方)還早出現，當我們在寫 resumebuilder.js 時，也會先讀取 helper.js 的所有 data。
+
+我們在 helper.js 裡會看到 HTMLmobile、HTMLemail 這些變數，每一個都有 `%data%` (place holder)，這些 %data% 之後會被 actual data 取代。
+
+![](/assets/螢幕快照 2017-04-18 上午8.09.07.png)
+
+#### How to replace `%data%` 
+* 跟之前替換字串一樣是用 replace method
+
+##### 實際操作
+我現在要把我的名字加到頁面上，一開始我要設一個變數儲存我的 HTML 資料
+
+1:24
 
 https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19167487900923
 
