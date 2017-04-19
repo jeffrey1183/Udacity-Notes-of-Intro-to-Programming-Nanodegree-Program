@@ -13,8 +13,6 @@ var myObject = {};
 
 * 我們會用 var 去宣告新的變數，不管是哪種 data type，即使是 objects
 
-### 例子
-
 ```js
 var firstname = "Wang"; // 字串加上括號
 var age = 29;
@@ -22,7 +20,7 @@ var age = 29;
 
 * Javascript 與 Python 存數字的方式很接近，所有數字都是用 64 bit floating point，都不用為使用 \(float\) 或是 整數\(int\)擔心
 
-### 練習 1
+### 儲存變數 - 練習 1
 
 1. 打開上一章節下載的簡歷專案檔案，在 resumeBuilder.js 裡加入下面的程式碼後儲存檔案
 
@@ -36,14 +34,14 @@ console.log(firstName);
 
 ![](/assets/螢幕快照 2017-04-15 下午7.png)
 
-### 練習 2
+### 儲存變數 - 練習 2
 
 1. 儲存一個變數叫 awesomeThought
 2. 然後把 awesomeThought 賦予 "I am {{name}} and I am awesome! "
 3. console.log\(awesomeThought\)
 
 
-# String.replace method
+# String.replace Method
 
 如同之前提到的我們會用 HTML Template 去建置我們的 resume，現在先來練習一個改換字串的 method，我先設定一個變數，這個變數
 存入我的 email
@@ -65,7 +63,7 @@ console.log(newEmail);
 ![](/assets/螢幕快照 2017-04-16 下午1.20.09.png)
 
 
-### String.replace method 練習1 - 替換字串 + 顯示於頁面
+### String.replace Method 練習1 - 替換字串 + 顯示於頁面
 
 除了剛剛的替換字串外，我們結合上一篇的 append，把 funThoughts 加進 main 這個區塊，讓頁面顯示 funThoughts 儲存的內容。
 
@@ -81,7 +79,7 @@ $("#main").append(funThoughts);
  *  We can replace placeholders in HTML with real data.
  *  After that, we just need to append HTML strings to start building our resume.
 
-#### helper.js
+### helper.js
 
 圖的右邊就是 helper.js 的內容，裡面有很多專案會用到的 helper data，helper.js 會比 resumebuilder.js (在下方)還早出現，當我們在寫 resumebuilder.js 時，也會先讀取 helper.js 的所有 data。
 
@@ -89,21 +87,32 @@ $("#main").append(funThoughts);
 
 ![](/assets/螢幕快照 2017-04-18 上午8.09.07.png)
 
-#### How to replace `%data%` 
+### How to Replace `%data%` 
 * 跟之前替換字串一樣是用 replace method
 
-##### 實際操作
+##### 綜合練習 - .Replace() 和 .Append() 組合技
 我現在要把我的名字加到頁面上，一開始我要設一個變數儲存我的 HTML 資料
+
 ```javascript
-var = formattedName = HTMLheaderName.replace("%data%", name);
+// 在 resumeBuilder.js 檔案寫進
+var name ="Jeffrey"
+var formattedName = HTMLheaderName.replace("%data%", name);
 $("#header").append(formattedName);
-
-// name 看你是要填自己的名字或是任何名字
+// 記得設定 name，看你是要填自己的名字或是任何名字。
 ```
-1:24
+##### 運行結果
+![](/assets/螢幕快照 2017-04-20 上午7.44.35.png)
 
-https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19167487900923
 
+##### 綜合練習 - .Replace()ing Placeholder Data in HTML
+跟上一個練習技巧相同，我們會將名字和 role (這裡指的是你找尋的工作類型)放在頁面的上方。在 helper.js 裡我們會找到
 
+```javascript
+var HTMLheaderName = '<h1 id="name">%data%</h1>';
+var HTMLheaderRole = '<span>%data%</span><hr>';
+```
+25
+
+https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19416885820923
 
 
