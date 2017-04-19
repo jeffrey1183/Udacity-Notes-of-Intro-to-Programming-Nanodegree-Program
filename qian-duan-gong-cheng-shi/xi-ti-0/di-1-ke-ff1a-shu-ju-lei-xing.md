@@ -94,7 +94,12 @@ $("#main").append(funThoughts);
 
 ##### 實際操作
 我現在要把我的名字加到頁面上，一開始我要設一個變數儲存我的 HTML 資料
+```javascript
+var = formattedName = HTMLheaderName.replace("%data%", name);
+$("#header").append(formattedName);
 
+// name 看你是要填自己的名字或是任何名字
+```
 1:24
 
 https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19167487900923
