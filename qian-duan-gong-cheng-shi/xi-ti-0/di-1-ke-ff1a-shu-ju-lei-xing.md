@@ -105,13 +105,44 @@ $("#header").append(formattedName);
 
 
 ##### 綜合練習 - .Replace()ing Placeholder Data in HTML
-跟上一個練習技巧相同，我們會將名字和 role (這裡指的是你找尋的工作類型)放在頁面的上方。在 helper.js 裡我們會找到
+跟上一個練習技巧相同，我們會將名字和 role (這裡指的是你找尋的工作類型)放在頁面的上方。
 
 ```javascript
-var HTMLheaderName = '<h1 id="name">%data%</h1>';
-var HTMLheaderRole = '<span>%data%</span><hr>';
+
+
+// 在 resumeBuilder.js 檔案寫進
+
+
+
+// 步驟一：先 create formattedName 和 formattedRole 這兩個變數
+
+// 步驟二：我們一樣利用 help.js 內，有 HTMLheaderName 和 HTMLheaderRole 這兩個 HTML strings，我們用replace method 把 HTML strings 內的 `%data%` 替換成你的 name 跟 role 
+
+
+var formattedName = HTMLheaderName.replace("%data%", name);
+var formattedRole = HTMLheaderRole.replace("%data%", role);
+
+var name = "Jeffrey";
+var role = "Product Manager";
+
+// 步驟三：使用 `append.() 或 prepend()` 把 formattedName 跟 formattedRole 加到頁面上。
+// append 是把東西加在 HTML 的結尾，prepend 而是加在 HTML 的開頭，兩種都實作看看。
+
+
+$("#header").append(formattedName);
+$("#header").append(formattedRole);
+
 ```
-25
+運行結果 - Append 版 加在 HTML 的結尾）
+
+![](/assets/螢幕快照 2017-04-22 下午2.52.33.png)
+
+
+運行結果 - Prepend 版 （加在 HTML 的開頭）
+![](/assets/螢幕快照 2017-04-22 下午2.53.02.png)
+
+
+
 
 https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19416885820923
 
