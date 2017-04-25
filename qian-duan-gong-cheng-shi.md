@@ -1,6 +1,4 @@
-
-
-前端工程師使用 Javascript 來建立交互式網頁體驗，在這門課你會透過創建一個履歷的專案，來學習 Javascript 的基礎知識。如果遇到問題可以到[論壇](https://www.gitbook.com/book/jeffrey1183/udacity-notes-intro-to-programming/edit#)發問。上完這堂課你會比較瞭解前端適不適合你。
+前端工程師使用 Javascript 來建立交互式網頁體驗，在這門課你會透過創建一個履歷的專案，來學習 Javascript 的基礎知識。如果遇到問題可以到[論壇](https://discussions.udacity.com/)發問。上完這堂課你會比較瞭解前端適不適合你。
 
 # 
 

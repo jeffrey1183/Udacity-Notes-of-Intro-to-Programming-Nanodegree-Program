@@ -144,11 +144,32 @@ $("#header").append(formattedRole);
 
 #### 練習 - Convert "audacity" to "Udacity"
 
-https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/28859185580923
+```javascript
+var s = "audacity";
 
-尚未解開
+var udacityizer = function convert(s) {  
+    // Right now, the variable s === "audacity"
+    // Manipulate s to make it equal to "Udacity"
+    // Your code goes here!
+    //把大寫 U 跟後面的字串分開運算，最後在合併
+    
+    var x = s.slice(1);
+    var y = s.slice(2,7);
+    x = x.toUpperCase();
+    var z = x + y
+    
+    
+    return s
+};
+```
+
+
+
+# Truthy and Falsy
 
 ![](/assets/螢幕快照 2017-04-25 下午8.48.24.png)
+
+https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19257288000923
 
 
 
