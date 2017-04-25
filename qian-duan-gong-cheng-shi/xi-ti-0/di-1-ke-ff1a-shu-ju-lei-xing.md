@@ -142,8 +142,13 @@ $("#header").append(formattedRole);
 ![](/assets/螢幕快照 2017-04-22 下午2.53.02.png)
 
 
+#### 練習 - Convert "audacity" to "Udacity"
 
+https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/28859185580923
 
-https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19416885820923
+尚未解開
+
+![](/assets/螢幕快照 2017-04-25 下午8.48.24.png)
+
 
 
