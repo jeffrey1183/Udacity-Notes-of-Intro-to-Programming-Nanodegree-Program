@@ -166,8 +166,12 @@ var udacityizer = function convert(s) {
 
 
 # Truthy and Falsy
-
+Javasript 有一系列的值來橫量 True and False，但很多並不是直接等於 True 或 False，基於這個原因我們把這些值稱作 Truthy 或 Falsy，在下面的圖就可以知道 Truthy 和 Falsy 有哪些：
+ 
 ![](/assets/螢幕快照 2017-04-25 下午8.48.24.png)
+* Undefined 是指 variable 不存在或是編譯器 (interpreter)不知道你指的是什麼
+* Null 是變量存在但是沒有值，通常會當作 placeholder(佔位符)
+* NaN 除了是是指不是數字外，也可能是 result 不是 number
 
 https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19257288000923
 
