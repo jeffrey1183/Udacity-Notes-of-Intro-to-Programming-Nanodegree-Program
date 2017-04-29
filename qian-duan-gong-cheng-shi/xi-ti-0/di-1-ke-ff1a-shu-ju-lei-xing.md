@@ -177,7 +177,8 @@ Javasript 有一系列的值來橫量 True and False，但很多並不是直接�
 
 #### True 和 False 在 JavaScript 跟 Python 的差異
 
-Python 中最常見的案例是 `None` (None 在其他程式語言是 Null。
+Python 中最常見的案例是 `None` (None would be null in other programming languages):
+
 
 https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19257288000923
 
