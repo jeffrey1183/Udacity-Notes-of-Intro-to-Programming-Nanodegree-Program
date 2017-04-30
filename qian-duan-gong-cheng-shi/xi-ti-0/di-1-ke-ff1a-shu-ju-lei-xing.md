@@ -191,6 +191,9 @@ There is no spoon
 ```
 None 跟 False 在 Python 當然不同，但是在是否為真的比較上是相同的。
 
+
+https://opensourcehacker.com/2012/10/17/true-lies-and-falsy-values-in-python-and-javascript/
+
 https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19257288000923
 
 
