@@ -34,19 +34,13 @@ Mozilla 开发者网络中提供了有关 HTML 和 [DOM](https://developer.mozil
 
 #### True 和 False 在 JavaScript 跟 Python 的差異
 
-Python 中最常見的案例是 `None` (None would be null in other programming languages)
+Check out this [comparison](https://opensourcehacker.com/2012/10/17/true-lies-and-falsy-values-in-python-and-javascript/) of True and False in JavaScript and Python
 
 
-```python
->>> spoon = False
->>> print "Porridge time" if spoon else "There is no spoon"
-There is no spoon
-
->>> spoon = None
->>> print "Porridge time" if spoon else "There is no spoon"
-There is no spoon
-```
-None 跟 False 在 Python 當然不同，但是在是否為真的比較上是相同的。
 
 
-https://opensourcehacker.com/2012/10/17/true-lies-and-falsy-values-in-python-and-javascript/
+
+[Truthy and Falsy: When All is Not Equal in Javascript](https://www.sitepoint.com/javascript-truthy-falsy/)
+
+
+
