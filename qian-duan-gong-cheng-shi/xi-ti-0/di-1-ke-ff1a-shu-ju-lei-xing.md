@@ -187,5 +187,9 @@ Javasript 有一系列的值來橫量 True and False，但很多並不是直接�
 
 備註：陣列跟和 object 後面才會介紹。
 
+# Array
+
+https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19316485840923
+
 
 
