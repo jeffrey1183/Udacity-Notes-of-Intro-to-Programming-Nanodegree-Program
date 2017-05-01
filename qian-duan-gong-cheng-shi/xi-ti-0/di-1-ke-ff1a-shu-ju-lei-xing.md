@@ -179,7 +179,7 @@ Javasript 有一系列的值來橫量 True and False，但很多並不是直接�
 * 像是要求 Javascript 計算一些不能算的東西像是0除以0，算出來就會是 NaN
 
 ## JavaScript Infinity Property
-* 我們可以在 Console 測試，看能不能測出這兩個 special numeric values `Infinity` 和 `-Infinity` 
+* `infinity` 可以從這個[例子](https://www.w3schools.com/jsref/jsref_infinity.asp)去了解， 測出 `Infinity` 和 `-Infinity`。
 
 
 One last note: at 1:25, Cameron mentions that undefined means "that a variable doesn't exist and the interpreter doesn't know what you're referring to." This isn't quite true. If you try to use a var that hasn't been defined, you get a ReferenceError. You will see undefined if you declare a variable but don't assign it any values. Like so:
