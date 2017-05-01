@@ -181,10 +181,7 @@ Javasript 有一系列的值來橫量 True and False，但很多並不是直接�
 ## JavaScript Infinity Property
 * `infinity` 可以從這個[例子](https://www.w3schools.com/jsref/jsref_infinity.asp)去了解， 測出 `Infinity` 和 `-Infinity`。
 
-
-One last note: at 1:25, Cameron mentions that undefined means "that a variable doesn't exist and the interpreter doesn't know what you're referring to." This isn't quite true. If you try to use a var that hasn't been defined, you get a ReferenceError. You will see undefined if you declare a variable but don't assign it any values. Like so:
-
-https://classroom.udacity.com/nanodegrees/nd000/parts/9e3f43e9-2105-410e-9091-c09379e64606/modules/05e362be-d7a5-4865-91f2-0ec2cd031720/lessons/2f3d65c7-510c-4dd6-95f3-4f77d51309bb/concepts/19257288000923
+![](/assets/螢幕快照 2017-05-01 下午3.29.15.png)
 
 
 
