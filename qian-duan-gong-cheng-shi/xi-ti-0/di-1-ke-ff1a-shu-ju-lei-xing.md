@@ -177,6 +177,8 @@ Javasript 有一系列的值來橫量 True and False，但很多並不是直接�
 
 ## 什麼是 NaN?
 * 像是要求 Javascript 計算一些不能算的東西像是0除以0，算出來就會是 NaN
+
+## JavaScript Infinity Property
 * 我們可以在 Console 測試，看能不能測出這兩個 special numeric values `Infinity` 和 `-Infinity` 
 
 
