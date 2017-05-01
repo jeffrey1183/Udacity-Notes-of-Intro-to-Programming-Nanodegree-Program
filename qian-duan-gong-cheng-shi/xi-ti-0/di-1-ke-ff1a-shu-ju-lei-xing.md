@@ -182,6 +182,7 @@ Javasript 有一系列的值來橫量 True and False，但很多並不是直接�
 * `infinity` 可以從這個[例子](https://www.w3schools.com/jsref/jsref_infinity.asp)去了解， 測出 `Infinity` 和 `-Infinity`。
 
 ![](/assets/螢幕快照 2017-05-01 下午3.29.15.png)
+* 
 
 
 
