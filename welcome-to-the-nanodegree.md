@@ -32,8 +32,6 @@
 
 這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_
 
-
-
 **A large goal of this Nanodegree is to give you practicethinkinglike a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.**
 
 ### **1. Procedural Thinking**
@@ -62,8 +60,6 @@
 
 **Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.**
 
-
-
 **When a program doesn't work, it's because there is a mistake \(also known as a "bug"\) somewhere in the computer code. Since these mistakes are an unavoidable part of programming, every good programmer has a system for fixing them and that system usually looks something like this:**
 
 1. **Collect evidence \(what makes this program fail?\)**
@@ -74,12 +70,11 @@
 
 4. **Fix the problem**
 
-#  **Learning how to learn**
+# **Learning how to learn**
 
 ![](https://lh5.googleusercontent.com/uuLrX7t3FJ3KTWdR3Tnx5Yc-7SX4eoKUgAJmR8ME9mvfdFWIRYRGtap5xqAAYxIX0TKXvRnEklfuH8Ap9aTYgFVydPAGowai_4C0WKvaOYiMCOU5m_fSjb8nN7JHFaMnvk5W8nXB)
 
 * **把學習的內容分成三種類型，真正的學習在這三種狀態中震盪**
 
-  
 
 

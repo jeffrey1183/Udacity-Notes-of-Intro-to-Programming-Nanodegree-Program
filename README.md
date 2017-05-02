@@ -1,5 +1,3 @@
-# 
-
 # Intro to Programming Nanodegree
 
 Welcome to the Nanodegree
