@@ -29,7 +29,7 @@
 
 這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_
 
-**A large goal of this Nanodegree is to give you practicethinkinglike a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.**
+A large goal of this Nanodegree is to give you practicethinkinglike a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
 
 ### 1. Procedural Thinking
 
@@ -43,17 +43,17 @@ Abstract thinking means finding similarity, or as programmers would say,generali
 
 In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's calledabstractionto avoid unnecessary repetition of work.
 
-### 3. Systems Thinking**
+### 3. Systems Thinking
 
 Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
 
-### 4. Technological Empathy**
+### 4. Technological Empathy
 
 "Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
 
 A computer is a tool, as are the programs we use and the programming languages used to write them. It's almost impossible to program anything substantial without a basic understanding of how these tools work.
 
-### 5. Debugging**
+### 5. Debugging
 
 Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.
 
