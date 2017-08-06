@@ -1,5 +1,14 @@
 # Setting up
 ----
+
+### Installing Code Editors
+
+* [Atom](https://atom.io/%29)  \(recommended\)
+
+* [Sublime Text](https://www.sublimetext.com/)
+
+* [Brackets](http://brackets.io/?lang=en)
+
 ### Build your First HTML and Viewing the Web Page
 
 * 打開一個空白檔然後存成 \`.html\`
@@ -12,15 +21,7 @@
 1. 連點檔案兩下，用 default 的 browser 開啟;或是右鍵選擇你要的 browser
 2. 你也可以先開 browser 然後從 File → Open File…，記得更改檔案要存檔，然後再 refresh 瀏覽器。
 
-### Installing Code Editors
 
-* [Atom](https://atom.io/%29)  \(recommended\)
-
-* [Sublime Text](https://www.sublimetext.com/)
-
-* [Brackets](http://brackets.io/?lang=en)
-
-## 
 
 # Think like a Programmer
 
@@ -29,7 +30,7 @@
 
 這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_
 
-A large goal of this Nanodegree is to give you practicethinkinglike a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
+A large goal of this Nanodegree is to give you practice thinkinglike a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
 
 ### 1. Procedural Thinking
 
