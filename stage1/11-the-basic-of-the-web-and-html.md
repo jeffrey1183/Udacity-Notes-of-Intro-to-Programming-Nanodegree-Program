@@ -1,5 +1,33 @@
 ## 1.1 The Basic of the Web and HTML
 
+
+# **Where to Focus Your Attention**
+
+### **Part 1**
+
+In Part 1, you will develop enough [technological empathy](https://classroom.udacity.com/nanodegrees/nd000/parts/0001345400/modules/000134540075460/lessons/3521029360/concepts/35030495730923#) to understand what happens when you open \(or create\) a web page. Specifically, you'll gain:
+
+* a basic understanding of how the Internet works, and
+
+* an understanding of how users, computers, servers, http, and the Internet all fit together.
+
+### **Part 2**
+
+In Part 2, you will useHTML tags to create a simpleHTML documentthat a browser can display as a web page.
+
+**
+**
+
+## Introduction To The Web
+
+![](https://lh3.googleusercontent.com/g3bgYAj-bx5tnkpYX2KGsbPrk37pZfoJdyzDxYVxffDfKsDD4ft55o-ALhKWXSOEpMlTpd8qp5oQkPk6kux3c-WK5Vw_GLnrrU5qxx5C4gHzmNtTdi-fD110NhSnUffjeXJ3INTi)**
+
+從 HTML Document Structure
+開始教，&lt;html&gt;&lt;body&gt; tag, The &lt;head&gt; tag defines metadata for our web page**
+
+
+
+
 In this Nanodegree you will get over the first hump that prevents many from entering the world of tech and programming. By the end of this program, you will have created dozens of impressive programs. For example, you'll have:
 
 * Built a web page and put it online.
