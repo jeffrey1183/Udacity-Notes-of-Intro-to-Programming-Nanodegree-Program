@@ -28,9 +28,10 @@
 ----
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
-這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_
+In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
+>這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
 
-A large goal of this Nanodegree is to give you practice thinkinglike a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
+
 
 ### 1. Procedural Thinking
 
