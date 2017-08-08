@@ -21,6 +21,7 @@ Note that, in general, you can split your screen into panes by going to the menu
 ### Installing the atom-html-preview package
 
 First, you’ll need to install the package:
+> 按照下面的步驟安裝 package 後才能預覽 HTML 的檔案。
 
 1. Open Atom. In the menu bar along the top of the window, select`Atom→Preferences`.
 
@@ -33,11 +34,12 @@ First, you’ll need to install the package:
 5. Once the package installation is complete, exit Preferences.
 
 
-### **在 Atom 預覽 HTML, follow these steps:**
+### Previewing HTML, follow these steps:
+
+>在 Atom 預覽 HTML 的步驟
 
 1. Open your HTML file.
 
 2. Preview your HTML by typing on the keyboard: `control+shift+H`
 
-You should now see your screen split into left and right panes, with the HTML preview displayed on the right.
 
