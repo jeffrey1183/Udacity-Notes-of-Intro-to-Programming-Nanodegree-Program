@@ -1,77 +1,27 @@
 # 1.1 The Basic of the Web and HTML
 
 
-# **Where to Focus Your Attention**
+## World Wide Web
 
-### **Part 1**
+* A collection of HTML(Hypertext Markup Languages) documents
 
-In Part 1, you will develop enough [technological empathy](https://classroom.udacity.com/nanodegrees/nd000/parts/0001345400/modules/000134540075460/lessons/3521029360/concepts/35030495730923#) to understand what happens when you open \(or create\) a web page. Specifically, you'll gain:
-
-* a basic understanding of how the Internet works, and
-
-* an understanding of how users, computers, servers, http, and the Internet all fit together.
-
-### **Part 2**
-
-In Part 2, you will useHTML tags to create a simpleHTML documentthat a browser can display as a web page.
-
-**
-**
-
-## Introduction To The Web
-
-![](https://lh3.googleusercontent.com/g3bgYAj-bx5tnkpYX2KGsbPrk37pZfoJdyzDxYVxffDfKsDD4ft55o-ALhKWXSOEpMlTpd8qp5oQkPk6kux3c-WK5Vw_GLnrrU5qxx5C4gHzmNtTdi-fD110NhSnUffjeXJ3INTi)**
-
-從 HTML Document Structure
-開始教，&lt;html&gt;&lt;body&gt; tag, The &lt;head&gt; tag defines metadata for our web page**
+## HTML
 
 
-
-
-In this Nanodegree you will get over the first hump that prevents many from entering the world of tech and programming. By the end of this program, you will have created dozens of impressive programs. For example, you'll have:
-
-* Built a web page and put it online.
-
-* Written computer code to automatically write emails.
-
-* Assembled a large program by using existing code written by others as "pieces."
-
-After doing these things, you'll be able to:
-
-* Make an informed decision about what \(if any\) steps you want to take next.
-
-* Converse deeply about computer science and programming without getting lost in computer speak.
-
-* Explain big ideas in programming \(like how the internet works or how a program runs\) to a friend.
-
-* Use programming to automate your own life.
-
-### The basic of Web
-
-* The web
-
-* HTML
-
-* URLS
-
-* HTTP
-
-* Web Application
-
-### World Wide Web
-
-* A Collection of HTML\(Hypertext Markup Languages\) documents
-
-### HTML
-
-* HTML glues anything together and the links\*\*  
-  \*\*
-
-![](https://lh4.googleusercontent.com/UNJJphreNQXvvEURWpWpVfQxbcTQpQS6D7B8UJ9a2_T8JF9_DbwttKVN8qcrtG8c6Enh5NdQTyutJsFw8l-XEs-qrYULxkv7HLecIm8CjmvEES1pwtW-15D9iusxnakH86rHiKtk)
+![](https://lh3.googleusercontent.com/g3bgYAj-bx5tnkpYX2KGsbPrk37pZfoJdyzDxYVxffDfKsDD4ft55o-ALhKWXSOEpMlTpd8qp5oQkPk6kux3c-WK5Vw_GLnrrU5qxx5C4gHzmNtTdi-fD110NhSnUffjeXJ3INTi)
 
 ![](https://lh4.googleusercontent.com/YZ-ITRT4SRrt3a8HuD5ehjWtvyy_VquhB91AWegwu3o0__Omr7lLLiSuVI6Rid-zWp1kK-zrEptsq922ebJcTleJe8-uxB0lYa1-boFcJhXmMwumkuzUtItzJsYDLIoeBdI4SoZu)
 
-### tag介紹
+![](https://lh3.googleusercontent.com/g3bgYAj-bx5tnkpYX2KGsbPrk37pZfoJdyzDxYVxffDfKsDD4ft55o-ALhKWXSOEpMlTpd8qp5oQkPk6kux3c-WK5Vw_GLnrrU5qxx5C4gHzmNtTdi-fD110NhSnUffjeXJ3INTi)
+
+
+## Internet
+
+![](https://lh4.googleusercontent.com/UNJJphreNQXvvEURWpWpVfQxbcTQpQS6D7B8UJ9a2_T8JF9_DbwttKVN8qcrtG8c6Enh5NdQTyutJsFw8l-XEs-qrYULxkv7HLecIm8CjmvEES1pwtW-15D9iusxnakH86rHiKtk)
+
+
+
+## tag介紹
 
 * 在[HTML Formatting](http://www.w3schools.com/html/html_formatting.asp)可以找到，許多常見 tag ，像 &lt;b&gt;&lt;/b&gt;, &lt;i&gt;&lt;/i&gt;
 
@@ -79,13 +29,13 @@ After doing these things, you'll be able to:
 
 如果你忘記closing tag，在opening tag後的字都會變斜體
 
-### HTML Attribute
+## HTML Attribute
 
 ![](https://lh4.googleusercontent.com/HLyxq0YzLcRhBQUag9gSPOHnE18h8O42slm_0YyRxlScsneqaNqCtZ6iM0pDt4gRbTNXdAy0aPaiOgR1uJyOhBE58cJowPaNAkdLRVFqohCmu0fxI0Me7I7HSZibAkDOxhTq8T-2)
 
 ![](https://lh4.googleusercontent.com/IWGJRWiA7gotFzri7C9Y40luRr_0GYQUXquMtnBha2UyTMTGcEzFhHG-Pf6ZENIIYTvafoQRn5YkarZ59EOXJ9S9fdiGKc_i3irvdEyFgeuRZLaXQ0zhpwSuyjINn_rvZWwuzin8)
 
-### Images Tag
+## Images Tag
 
 * alt = alternate，當連結失效的時候，就會顯示後面的設定的文字 text
 
@@ -101,7 +51,7 @@ After doing these things, you'll be able to:
 
 ![](https://lh5.googleusercontent.com/B-DleTUXtOgLEi-EVz6pRwVSBwP31_CPhGDDDk-cQBp3JFfH9VPYq6kHN850Td8JX4Ati--t2h8fzQEAHHsH5tuW9Fg1-fRGT37g8ArZCax9j-fGzBZoTOOMjxQdxqKNJdvg8ZQ0)
 
-### Inline/block element
+## Inline/block element
 
 * [官方解釋](https://www.w3schools.com/html/html_blocks.asp)
 
@@ -125,7 +75,7 @@ First, recall the two main topics covered in this lesson.
 
 2. Introduction to HTML: You were introduced to HTML tags \(like&lt;b&gt;,&lt;p&gt;, and&lt;em&gt;\) and saw how even though these tags aren't visible to users of a web page, they still carry meaning thatismeaningful to web browsers.
 
-### What to take away from this lesson.
+## What to take away from this lesson.
 
 The five most important things to take from this lesson are the following:
 
@@ -167,7 +117,6 @@ You will be using HTML in the next few lessons, so it will be helpful if you're 
 
 **Attribute: **This is a property of an HTML element. For example, to set the href attribute of an anchor tag to the Udacity URL, you would write&lt;a href="www.udacity.com"&gt;
 
-# 
 
 
 

@@ -24,7 +24,28 @@ Stage 5: Choose Your Path
 * square brackets 是 \[ \]
 * [**histogram**](https://tw.dictionary.yahoo.com/dictionary?p=histogram) 是指**以長方條表示的統計圖**
 
-##  {#python-resource-python-resource-}
+# What Will You Gain(整理完筆記可以回來看)
+
+By the end of this program, you will have created dozens of impressive programs. For example, you'll have:
+
+* Built a web page and put it online.
+
+* Written computer code to automatically write emails.
+
+* Assembled a large program by using existing code written by others as "pieces."
+
+
+After doing these things, you'll be able to:
+
+* Make an informed decision about what \(if any\) steps you want to take next.
+
+* Converse deeply about computer science and programming without getting lost in computer speak.
+
+* Explain big ideas in programming \(like how the internet works or how a program runs\) to a friend.
+
+* Use programming to automate your own life.
+
+
 
 
 
