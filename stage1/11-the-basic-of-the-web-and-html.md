@@ -6,10 +6,13 @@
 * A collection of HTML(Hypertext Markup Languages) documents
 
 ## HTML
-
+* HyperText Markup Language
 ![](https://lh3.googleusercontent.com/g3bgYAj-bx5tnkpYX2KGsbPrk37pZfoJdyzDxYVxffDfKsDD4ft55o-ALhKWXSOEpMlTpd8qp5oQkPk6kux3c-WK5Vw_GLnrrU5qxx5C4gHzmNtTdi-fD110NhSnUffjeXJ3INTi)
 
 ## HTML Markup
+* element
+ * opening tag
+ * closing tag
 ![](https://lh4.googleusercontent.com/YZ-ITRT4SRrt3a8HuD5ehjWtvyy_VquhB91AWegwu3o0__Omr7lLLiSuVI6Rid-zWp1kK-zrEptsq922ebJcTleJe8-uxB0lYa1-boFcJhXmMwumkuzUtItzJsYDLIoeBdI4SoZu)
 
 
@@ -22,8 +25,17 @@
 
 ## Tag
 
-* 在[HTML Formatting](http://www.w3schools.com/html/html_formatting.asp)可以找到，許多常見 tag ，像 &lt;b&gt;&lt;/b&gt;, &lt;i&gt;&lt;/i&gt;
-
+* 在 [HTML formatting](http://www.w3schools.com/html/html_formatting.asp) 可以找到，許多常見 tag，例如
+* `<b>` - Bold text
+* `<strong>` - Important text
+* `<i>` - Italic text
+* `<em>` - Emphasized text
+* `<mark>` - Marked text
+* `<small>` - Small text
+* `<del>` - Deleted text
+* `<ins>` - Inserted text
+* `<sub>` - Subscript text
+* `<sup>` - Superscript text
 ![](https://lh5.googleusercontent.com/xohhu_Kaxq4tZZ9W4fL1_EFPDAhiroOuKsAeP_bEcAZziisBvmDWIyn2VJ7wVGypINmxI0Dp3kizszpZkdnOBKkAm6EWOJMd6FW2lSlG_EopyElEZUak8SygwRa73TNfAzTnF5Ph)
 
 如果你忘記closing tag，在opening tag後的字都會變斜體
