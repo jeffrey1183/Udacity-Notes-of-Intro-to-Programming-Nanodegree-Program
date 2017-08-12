@@ -38,23 +38,31 @@
 * `<sup>` - Superscript text
 ![](https://lh5.googleusercontent.com/xohhu_Kaxq4tZZ9W4fL1_EFPDAhiroOuKsAeP_bEcAZziisBvmDWIyn2VJ7wVGypINmxI0Dp3kizszpZkdnOBKkAm6EWOJMd6FW2lSlG_EopyElEZUak8SygwRa73TNfAzTnF5Ph)
 
-如果你忘記closing tag，在opening tag後的字都會變斜體
+* 如果你忘記加 closing tag，在opening tag後的字都會變斜體。
 
 ## HTML Attribute
-
+* 介紹 tag 的 attribute 與 value
 ![](https://lh4.googleusercontent.com/HLyxq0YzLcRhBQUag9gSPOHnE18h8O42slm_0YyRxlScsneqaNqCtZ6iM0pDt4gRbTNXdAy0aPaiOgR1uJyOhBE58cJowPaNAkdLRVFqohCmu0fxI0Me7I7HSZibAkDOxhTq8T-2)
+
+
+
+
+
+
+## Images Tag
+* 以 image tag 當例子，src 與 alt 是 attributes，url 跟 text 是 value。
 
 ![](https://lh4.googleusercontent.com/IWGJRWiA7gotFzri7C9Y40luRr_0GYQUXquMtnBha2UyTMTGcEzFhHG-Pf6ZENIIYTvafoQRn5YkarZ59EOXJ9S9fdiGKc_i3irvdEyFgeuRZLaXQ0zhpwSuyjINn_rvZWwuzin8)
 
-## Images Tag
 
-* alt = alternate，當連結失效的時候，就會顯示後面的設定的文字 text
+* alt attribute
+ * alt 的全稱是 alternate，當圖片連結失效的時候，就會顯示 alt 內的設定的字串。
 
 * void tag 是一個 tag 沒有 content，他不需要一個 closing tag
 
-* &lt;br&gt; break的意思 可以換行
+* break的意思 可以換行
 
-* &lt;p&gt; paragraph 段落
+* paragraph 段落
 
 ![](https://lh6.googleusercontent.com/iZt7H-X4pb4a3fqXKNZq0ytqAs_3jtuWoeUoOIuV_RAHnFjw8R8mqDg2y-xMPRHu8luKP-AhU5ZkCXSrHB5NxAT2UEfP1UzfVn161MazBaH0N2SxMiuPNUCiAGBIKYoLeNz_eRH-)
 
