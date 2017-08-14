@@ -61,31 +61,42 @@
 * void tag 是指一個 tag 並沒有 content，他不需要一個 closing tag
 * break 是換行的意思
 
+##Whitespace
+* 空格與換行的使用
+ * 在 html 裡就算你空很多空格，但實際上只有一個
+ *  `<p>` tag 的 p 是 paragraph, 段落的意思。
 
 
 ![](https://lh6.googleusercontent.com/iZt7H-X4pb4a3fqXKNZq0ytqAs_3jtuWoeUoOIuV_RAHnFjw8R8mqDg2y-xMPRHu8luKP-AhU5ZkCXSrHB5NxAT2UEfP1UzfVn161MazBaH0N2SxMiuPNUCiAGBIKYoLeNz_eRH-)
 
-
-* paragraph 是段落的意思
+範例1
 
 ![](https://lh5.googleusercontent.com/B-DleTUXtOgLEi-EVz6pRwVSBwP31_CPhGDDDk-cQBp3JFfH9VPYq6kHN850Td8JX4Ati--t2h8fzQEAHHsH5tuW9Fg1-fRGT37g8ArZCax9j-fGzBZoTOOMjxQdxqKNJdvg8ZQ0)
 
-* html 裡就算你空很多空格，但實際上只有一個
 
 
-## Inline/block element
+## Inline/Block Element
 
-* [官方解釋](https://www.w3schools.com/html/html_blocks.asp)
+* [官方解釋](https://www.w3schools.com/html/html_blocks.asp), creating "invisible boxes"
 
-* block element會創造有長和寬的空間，creating "invisible boxes"，下面就是講是 inline 是一個 block
+
+* block element 像 `<div>`、`<p>` 這些 tag。會創造有長和寬的空間，他會是一整塊跟畫面的寬度相同的空間，且從左開始。
+* inline element 則不會是一整塊與畫面一樣寬的區塊，他的寬度會依照需要多少空間而不同。像 `<img>`、`<span>`。
 
 ![](https://lh4.googleusercontent.com/i4eEa_-2IJLg8hLGYsd67ET9uNpipgGzQdiOGW1bRXNpmu7O39RZ0zDQgyD_mUtfgTRkbYbtsLlSvb87LMkWYK40DqvgJTGZJ80mXvrDjWKXykAX2l3jyJq-gyNOF669im-ApeHD)
 
 ![](https://lh4.googleusercontent.com/vfLdVMUlhRavQ_fADnpV7wm_Wspj7DHGJduVoSNXdbMw9uxzMDQOcgRmeOLSVKFdHZn6Gc7grydM4FifTlEOLa6h14J91QoK4SjaLUm3f1DcZPQkeiwunT27ovDMxoKRNeLP4lhe)
 
+### Quiz
+* 哪些 elements 是 inline element?
+
 ![](https://lh4.googleusercontent.com/A2KSYadOLIuwIpk6x5OwSwGOTg9YzOmCMN8iWuLot-rDu1FhF0Twl3G17EOKGSN2EHgy3e3e_2UJt748BLy2zAf9tXsRAEwL6cS9ckhi1jrXVOKUb97vkg_LttjVzUdvm81KP-OA)
 
+## HTML Documents
+* doctype
+* html, head, body
 ![](https://lh6.googleusercontent.com/I2vaef0mKXEvvQ0zerQYLPR7ZeSvpqJV5JHawxoFNkow9Cz5XPJh2U2okfpoofWCj3fg-ahalR9zLKjUDEc_UuOnrl9PTbYLH_lZ-Eu6chiUzhJTJRe8adj1oxFRNECb-rwdIKY3)
+
 
 ![](https://lh3.googleusercontent.com/m56kgVRSCArm0z9Z6NaO6rFDaKoeCCCHH72SVk_SAwYome1jMQzaEh51c3DTx-idKBSfifYoN0H-z57RuehLcv8UTJTy_CmJZd3yxWQvYu8i4ii4Al5BBoRctiXN65hCjgArodQA)
 
