@@ -58,23 +58,26 @@
 * alt attribute
  * alt 的全稱是 alternate，當圖片連結失效的時候，就會顯示 alt 內的設定的字串。
 
-* void tag 是一個 tag 沒有 content，他不需要一個 closing tag
+* void tag 是指一個 tag 並沒有 content，他不需要一個 closing tag
+* break 是換行的意思
 
-* break的意思 可以換行
 
-* paragraph 段落
 
 ![](https://lh6.googleusercontent.com/iZt7H-X4pb4a3fqXKNZq0ytqAs_3jtuWoeUoOIuV_RAHnFjw8R8mqDg2y-xMPRHu8luKP-AhU5ZkCXSrHB5NxAT2UEfP1UzfVn161MazBaH0N2SxMiuPNUCiAGBIKYoLeNz_eRH-)
 
-* Html裡的很多空格，實際上只有一個
+
+* paragraph 是段落的意思
 
 ![](https://lh5.googleusercontent.com/B-DleTUXtOgLEi-EVz6pRwVSBwP31_CPhGDDDk-cQBp3JFfH9VPYq6kHN850Td8JX4Ati--t2h8fzQEAHHsH5tuW9Fg1-fRGT37g8ArZCax9j-fGzBZoTOOMjxQdxqKNJdvg8ZQ0)
+
+* html 裡就算你空很多空格，但實際上只有一個
+
 
 ## Inline/block element
 
 * [官方解釋](https://www.w3schools.com/html/html_blocks.asp)
 
-* block element會創造有長和寬的空間，creating "invisible boxes"，下面就是講 &lt;br&gt;&lt;span&gt; 是 inline, &lt;p&gt;&lt;div&gt;是一個 block
+* block element會創造有長和寬的空間，creating "invisible boxes"，下面就是講是 inline 是一個 block
 
 ![](https://lh4.googleusercontent.com/i4eEa_-2IJLg8hLGYsd67ET9uNpipgGzQdiOGW1bRXNpmu7O39RZ0zDQgyD_mUtfgTRkbYbtsLlSvb87LMkWYK40DqvgJTGZJ80mXvrDjWKXykAX2l3jyJq-gyNOF669im-ApeHD)
 
