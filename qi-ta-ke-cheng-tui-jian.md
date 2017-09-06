@@ -1,3 +1,9 @@
+
+# Python Resource {#python-resource-python-resource-}
+
+* [Learn Python The Hard Way](https://learnpythonthehardway.org/book/ex42.html)
+
+
 [https://www.udacity.com/course/website-performance-optimization--ud884](https://www.udacity.com/course/website-performance-optimization--ud884)
 
 [https://cn.udacity.com/course/beginning-ios-app-development-nanodegree--nd006](https://cn.udacity.com/course/beginning-ios-app-development-nanodegree--nd006)

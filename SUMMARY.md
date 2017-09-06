@@ -38,7 +38,6 @@
   * [5.4 Solving big problems](stage-5introchoose-your-next-steps/54-solving-big-problems.md)
   * [5.5 Making Pages Look Good](stage-5introchoose-your-next-steps/55-making-pages-look-good.md)
   * [5.6 Go Explore](stage-5introchoose-your-next-steps/56-go-explore.md)
-* [Python Resource](python-resource.md)
 * [Discover your path](discover-your-path.md)
   * [4.1: Front End Programmer](discover-your-path/41-front-end-programmer.md)
   * [4.2 Back-End Programming](discover-your-path/42-back-end-programming.md)
