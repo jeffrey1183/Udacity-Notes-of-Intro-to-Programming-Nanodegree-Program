@@ -1,5 +1,6 @@
 # Setting up
-----
+
+---
 
 ### Installing Code Editors
 
@@ -21,17 +22,15 @@
 1. 連點檔案兩下，用 default 的 browser 開啟;或是右鍵選擇你要的 browser
 2. 你也可以先開 browser 然後從 File → Open File…，記得更改檔案要存檔，然後再 refresh 瀏覽器。
 
-
-
 # Think like a Programmer
 
-----
+---
+
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
 In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
->這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
 
-
+> 這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
 
 ### 1. Procedural Thinking
 

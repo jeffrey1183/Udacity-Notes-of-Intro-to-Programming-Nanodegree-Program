@@ -33,7 +33,7 @@ Android 系統驅動著全球 14 億部、82% 以上智能手機，為世界各�
   * 滑手機的動作，有點像把應用程式關掉時，滑掉的動作
 * 程式寫死的英文
   * hard code
-*  的英文是 backslash
+* 的英文是 backslash
 * comment it out with a double forward slash\(就是這個//\)
 
 ## 閱讀文章- [如何成為一名 Android 開發者](http://blog.udacity.com/2015/05/become-android-developer.html)

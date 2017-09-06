@@ -50,9 +50,7 @@
 
 * **註冊 Signup 是個 button**
 
-
-
-https://classroom.udacity.com/nanodegrees/nd000/parts/00013454010/modules/0001345401075460/lessons/6784922120/concepts/42331586330923
+[https://classroom.udacity.com/nanodegrees/nd000/parts/00013454010/modules/0001345401075460/lessons/6784922120/concepts/42331586330923](https://classroom.udacity.com/nanodegrees/nd000/parts/00013454010/modules/0001345401075460/lessons/6784922120/concepts/42331586330923)
 
 到31秒
 
@@ -61,7 +59,7 @@ https://classroom.udacity.com/nanodegrees/nd000/parts/00013454010/modules/000134
 # Vocabulary Glossary
 
 * [連結](https://developers.google.com/android/for-all/vocab-words/)
-* [整理文件](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd803/Android+for+All+%EF%BC%8D+Vocabulary+Glossary.pdf)
+* [整理文件](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd803/Android+for+All+－+Vocabulary+Glossary.pdf)
 
 
 

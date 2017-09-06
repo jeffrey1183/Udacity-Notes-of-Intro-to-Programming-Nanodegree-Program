@@ -1,6 +1,5 @@
 # Summary
 
-* [前言](前言.md)
 * [課程大綱](README.md)
 * [Welcome to the Nanodegree](welcome-to-the-nanodegree.md)
 * [Stage 0：Getting Started with HTML](stage-0.md)
@@ -46,19 +45,4 @@
   * [4.3 Mobile Programming](discover-your-path/43-mobile-programming.md)
   * [4.4 Data Analyst](discover-your-path/44-data-analyst.md)
 * [其他課程推薦](qi-ta-ke-cheng-tui-jian.md)
-* [前端工程師](qian-duan-gong-cheng-shi.md)
-  * [第 0 課 ：準備工作](qian-duan-gong-cheng-shi/di-0-ke-zhun-bei-gong-zuo.md)
-  * [Data Types in Javascript](qian-duan-gong-cheng-shi/xi-ti-0/di-1-ke-ff1a-shu-ju-lei-xing.md)
-  * [Resources](qian-duan-gong-cheng-shi/xue-xi-zi-yuan.md)
-* [後端工程師](hou-duan-gong-cheng-shi.md)
-  * [Vagrant](hou-duan-gong-cheng-shi/vagrant.md)
-  * [第一課：數據與表格](hou-duan-gong-cheng-shi/di-yi-ke-ff1a-shu-ju-yu-biao-ge.md)
-* [iOS 開發者](ios-kai-fa-zhe.md)
-  * [開始學習](ios-kai-fa-zhe/kai-shi-xue-xi.md)
-* [Android 開發者](android-kai-fa-zhe.md)
-  * [課程1A：打造佈局](android-kai-fa-zhe/ke-cheng-1a-ff1a-da-zao-bu-ju.md)
-  * [Resources](android-kai-fa-zhe/resources.md)
-* [數據分析師](shu-ju-fen-xi-shi.md)
-  * [安裝 Anaconda](shu-ju-fen-xi-shi/an-zhuang-anaconda.md)
-    * [Virtualenv](shu-ju-fen-xi-shi/an-zhuang-anaconda/virtualenv.md)
 
