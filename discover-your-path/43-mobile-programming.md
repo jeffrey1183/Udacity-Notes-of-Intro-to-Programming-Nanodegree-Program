@@ -1,4 +1,4 @@
-# 4.3 Mobile Programming
+# Mobile Programming
 
 Solving Mobile Problems
 

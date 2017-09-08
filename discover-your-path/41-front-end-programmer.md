@@ -1,4 +1,4 @@
-## 4.1: Front End Programmer
+# Front End Programmer
 
 要處理像：
 
@@ -11,7 +11,7 @@
   
 
 
-### Front-End Projects
+# Front-End Projects
 
 * jQuery library
 
@@ -31,13 +31,10 @@ The goal for these lessons is familiarity with some important ideas in computer 
 
   
 
-
-### API 完整解釋
-
-  
+# API 完整解釋
 
 
-#### 一般 API 都後端 build
+#### API - 一般都後端 build
 
 Front-End Developers specifically make calls or requests to APIs but most often Back-End Programmers are the people who build these APIs.
 

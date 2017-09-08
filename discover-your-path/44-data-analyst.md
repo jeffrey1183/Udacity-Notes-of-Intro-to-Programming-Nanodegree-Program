@@ -1,4 +1,4 @@
-# 4.4 Data Analyst
+# Data Analyst
 
 ![](https://lh4.googleusercontent.com/zadLicrGewMcTtmJMSOZ5BmVz6W72CrnBpCo7cuuofmEvIrSFdcJGIkwYmC7clv21UWDF59DQRTgtgm9ZgvXfkBm7hBi_9lE54XkdMn8OLonMoSnqf_36EPv85Y374UkcsHFBOkM)
 
