@@ -1,6 +1,12 @@
 # Front End Programmer
+前端工程師除了要可以
+* 有同理心 - 站在 user 的角度
 
-要處理像：
+* 拆解問題
+
+* 與設計溝通
+
+工作上要處理像：
 
 * Fast Loading speed
 
@@ -12,28 +18,20 @@
 
 # [前端技術細項](http://blog.udacity.com/2015/03/web-dev-building-blocks-need-to-know-where-to-learn.html)
 
-*  HTML5 & CSS
- * 無庸置疑前端需要先學這個
+
+### 1.[HTML5 & CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+* 無庸置疑前端需要先學這個，web application 開發的基本。你不需要知道每個 element，畢竟光[基本知識](/semantic)就超多，包含了 3D graphics, multimedia, offline storage 和 connectivity 這些部分。
+* 現在編輯的時候因為有 IDE (integrated development environment) 的幫忙，可以用一些 template，但你還是要知道原理，甚至從一個空白得 text 文件檔編寫程式。
+* 關於怎麼使用 CSS 去 styling 你的 HTML，甚至是創造出像 Twitter Bootstrap 這樣方便的 framework，去做一個用戶介面的 guideline (user interface style guide)，提供像按鈕、表格的設計樣式。
 
 
+提供一些不錯的學習資源：
 
+* [css-tricks](https://css-tricks.com)
+* [Mozilla Developer Network (HTML5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [W3C CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 
-大致可以分成兩種類型的前端
-
-* Design focused developers create sites that look and feel intuitive to the user. They spend most of their time writing HTML and CSS.
-
-* Application focused developers use frameworks to create logic that powers interesting interactions user experience on websites. These developers most often use JavaScript.
-
-還需要...
-* 同理心 - 站在 user 的角度
-
-* 拆解問題
-
-* 與設計溝通
-
-* Turn monolithic\(一大塊\) task into logical and reasonable chunks.
-
-  
+###2. Browser Tools
 
 
 ### What are important concepts Front-End programmers need to know:
