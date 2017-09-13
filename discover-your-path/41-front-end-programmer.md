@@ -42,11 +42,14 @@
 你可以監控你的 JavaScript，看每個時間點的執行狀況。
 ![](/frontEnd_1.png)
 
-#### A Resource Inspector
+在 Elements 裡你可以看出畫面跟你預期的一不一樣，需不需要調整 elements, CSS styling, JavaScript。 
 
-可以知道哪些 Resource 被 loaded，會把 HTML content, frames, images, JavaScript, CSS files, cookies, fonts 等內容顯示出來。
+點選 Network 可以知道哪些 Resource 被 loaded，會把 HTML content, frames, images, JavaScript, CSS files, cookies, fonts 等內容顯示出來，像是標示每一個程式 render 的時間、檔案大小。
 
-![](/assets/frontEnd_2.png)
+更多資料請看這：
+* [Safari Developer Tools](https://developer.apple.com/safari/tools/)
+* [Chrome Developer Tools](https://developer.chrome.com/devtools)
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 
 
