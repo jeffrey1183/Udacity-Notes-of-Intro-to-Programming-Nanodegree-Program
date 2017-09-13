@@ -33,6 +33,22 @@
 
 ###2. Browser Tools
 
+* 在了解 HTML 和 CSS 之後接下來就是 browser tools。現在的 browser 都有豐富的工具幫助你監控網頁、網站、application。
+
+以 Google Chrome 為例，用 command+option+j 開啟 debugger
+
+
+#### Debugger
+你可以監控你的 JavaScript，看每個時間點的執行狀況。
+![](/frontEnd_1.png)
+
+#### A Resource Inspector
+
+可以知道哪些 Resource 被 loaded，會把 HTML content, frames, images, JavaScript, CSS files, cookies, fonts 等內容顯示出來。
+
+![](/assets/frontEnd_2.png)
+
+
 
 ### What are important concepts Front-End programmers need to know:
 
