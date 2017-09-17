@@ -52,8 +52,21 @@
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 ###3. JavaScript
-如果要讓網站動起來就需要 JavaScript，可以先從一些較簡單的功能開始，像是
+如果要讓網站動起來就需要 JavaScript，可以先從一些較簡單的功能開始，像是確認用的對話框，根據 user input 顯示或隱藏內容。
 
+可以先從 Mozilla 的 [Learning the Web series](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) 的 [JavaScript basics tutorial ](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 課程開始學起。
+
+接著就可以學 [jQuery](http://jquery.com) 和 [Node.js documentation](https://nodejs.org/en/)，朝向專業的 JavaScript developer 之路前進。由於 JavaScript 不斷在演進，你必須了解最新趨勢，可以訂閱 [JavaScript Weekly](http://javascriptweekly.com) 了解新知。
+
+###4. Testing
+除了這些基本技術外，在進入進階的 feature 之前，必須先提到測試!!
+
+什麼是軟體測試呢？主要可以分成五個類型：
+* Unit Testing
+* Functional Testing
+* Integration Testing
+* System Testing
+* Acceptance Testing
 
 
 
