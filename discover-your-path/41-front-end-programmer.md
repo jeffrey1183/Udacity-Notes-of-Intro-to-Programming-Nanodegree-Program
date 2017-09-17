@@ -51,6 +51,10 @@
 * [Chrome Developer Tools](https://developer.chrome.com/devtools)
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
+###3. JavaScript
+如果要讓網站動起來就需要 JavaScript，可以先從一些較簡單的功能開始，像是
+
+
 
 
 ### What are important concepts Front-End programmers need to know:
