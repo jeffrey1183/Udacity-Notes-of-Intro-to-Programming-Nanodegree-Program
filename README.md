@@ -23,7 +23,12 @@ Stage 5: Choose Your Path
 * curly brackets 是指 { }
 * square brackets 是 \[ \]
 * [**histogram**](https://tw.dictionary.yahoo.com/dictionary?p=histogram) 是指**以長方條表示的統計圖**
+* corner case
+ * [中文解釋](https://zh.wikipedia.org/wiki/邊角案例)、[英文解釋](https://en.wikipedia.org/wiki/Corner_case)
 
+# 名言佳句
+
+Spend more time learning background concepts, rather than becoming fixated on any one tool.
 
 
 

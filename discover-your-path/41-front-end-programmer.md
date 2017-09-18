@@ -62,11 +62,17 @@
 除了這些基本技術外，在進入進階的 feature 之前，必須先提到測試!!
 
 什麼是軟體測試呢？主要可以分成五個類型：
-* Unit Testing
+* [Unit Testing](https://en.wikipedia.org/wiki/Software_testing#Unit_testing)
+ * focus 在功能，verify the functionality of a specific section of code。
+ * These types of tests are usually written by developers as they work on code, to ensure that the specific function is working as expected.
+ * Unit testing alone cannot verify the functionality of a piece of software, but rather is used to ensure that the building blocks of the software work independently from each other.
+ * Unit testing aims to eliminate construction errors before code is promoted to QA
+ * Depending on the organization's expectations for software development, unit testing might include [static code analysis](http://www.ithome.com.tw/node/71531), [data-flow analysis](https://zh.wikipedia.org/wiki/数据流分析), metrics analysis, peer code reviews, code coverage analysis and other software verification practices.
 * Functional Testing
 * Integration Testing
 * System Testing
 * Acceptance Testing
+
 
 
 
