@@ -25,6 +25,7 @@ Stage 5: Choose Your Path
 * [**histogram**](https://tw.dictionary.yahoo.com/dictionary?p=histogram) 是指**以長方條表示的統計圖**
 * corner case
  * [中文解釋](https://zh.wikipedia.org/wiki/邊角案例)、[英文解釋](https://en.wikipedia.org/wiki/Corner_case)
+* [vim](https://www.zhihu.com/question/19870551)
 
 # 名言佳句
 

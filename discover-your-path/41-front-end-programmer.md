@@ -63,7 +63,7 @@
 
 什麼是軟體測試呢？主要可以分成五個類型：
 * [Unit Testing](https://en.wikipedia.org/wiki/Software_testing#Unit_testing)
- * focus 在功能，verify the functionality of a specific section of code。
+ * 主要 focus 在功能，verify the functionality of a specific section of code。
  * These types of tests are usually written by developers as they work on code, to ensure that the specific function is working as expected.
  * Unit testing alone cannot verify the functionality of a piece of software, but rather is used to ensure that the building blocks of the software work independently from each other.
  * Unit testing aims to eliminate construction errors before code is promoted to QA
@@ -74,7 +74,8 @@
 * Acceptance Testing
 
 
-
+###5. Version Control
+除了上面那些必要技能外，我們需要了解版本控制(verson or source control)，如果你聽過這個詞，那你可能知道一些常用的工具像 [CVS](http://daydreamman.blogspot.tw/2007/09/cvs-concurrent-versions-system.html), [SVN](https://zh.wikipedia.org/wiki/Subversion), [Git](https://git-scm.com) 和 [Mercurial](https://www.openfoundry.org/tw/foss-forum/9266-why-git-better)
 
 ### What are important concepts Front-End programmers need to know:
 
