@@ -67,8 +67,8 @@
  * These types of tests are usually written by developers as they work on code, to ensure that the specific function is working as expected.
  * Unit testing alone cannot verify the functionality of a piece of software, but rather is used to ensure that the building blocks of the software work independently from each other.
  * Unit testing aims to eliminate construction errors before code is promoted to QA
- * Depending on the organization's expectations for software development, unit testing might include [static code analysis](http://www.ithome.com.tw/node/71531), [data-flow analysis](https://zh.wikipedia.org/wiki/数据流分析), metrics analysis, peer code reviews, code coverage analysis and other software verification practices.
-* Functional Testing
+ * Depending on the organization's expectations for software development, unit testing might include [static code analysis](http://www.ithome.com.tw/node/71531), [data-flow analysis](http://blog.csdn.net/dashuniuniu/article/details/50705389), metrics analysis, peer code reviews, [code coverage](https://www.puritys.me/docs-blog/article-230-過高的-Test-Code-Coverage-將摧毀一個新專案.html) analysis and other software verification practices.
+* [Functional Testing](http://teddy-chen-tw.blogspot.tw/2014/06/blog-post_3.html)
 * Integration Testing
 * System Testing
 * Acceptance Testing
