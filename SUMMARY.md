@@ -1,7 +1,9 @@
 # Summary
 
 * [課程大綱](README.md)
-* [Welcome to the Nanodegree](welcome-to-the-nanodegree.md)
+* [名詞解釋](ming-ci-jie-shi.md)
+* [1. Learn to Code](d.md)
+  * [Welcome to the Nanodegree](d/welcome-to-the-nanodegree.md)
 * [Stage 0：Getting Started with HTML](stage-0.md)
 * [Stage 1：Make a Web Page](stage1.md)
   * [1.1 The Basic of the Web and HTML](stage1/11-the-basic-of-the-web-and-html.md)
@@ -37,5 +39,5 @@
   * [Mobile Programming](discover-your-path/43-mobile-programming.md)
   * [Data Analyst](discover-your-path/44-data-analyst.md)
   * [The Power of API](stage-5introchoose-your-next-steps/52-the-power-of-api.md)
-* [其他課程推薦](qi-ta-ke-cheng-tui-jian.md)
+* [Welcome to the Nanodegree](welcome-to-the-nanodegree.md)
 

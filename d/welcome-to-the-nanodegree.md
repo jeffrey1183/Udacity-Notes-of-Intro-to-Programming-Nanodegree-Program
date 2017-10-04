@@ -11,12 +11,16 @@
 
 * [Brackets](http://brackets.io/?lang=en)
 
-### Build your First HTML and Viewing the Web Page
+#建立你的第一個網頁
 
 * 打開一個空白檔然後存成 \`.html\`
+    * 為了讓瀏覽器能編譯你的 HTML 程式碼，記得副檔名
+
+到這：https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/eaf0e993-ea8a-47d6-948c-b23d89c55f6e/lessons/edc4d49c-a504-40ee-a6c8-c4f60084ecbf/concepts/85406e79-476c-4091-b6c0-1252bd61bd40
+
 * selecting File → Save As…, and giving the file a name like \`my-first-code.html\`
 
-### **Viewing the Rendered Web Page**
+#查看你的網頁
 
 從 Browser 去看你的檔案，有兩個方法
 
