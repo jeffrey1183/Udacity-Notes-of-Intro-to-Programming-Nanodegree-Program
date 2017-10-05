@@ -10,4 +10,4 @@
 * corner case
  * [中文解釋](https://zh.wikipedia.org/wiki/邊角案例)、[英文解釋](https://en.wikipedia.org/wiki/Corner_case)
 * [vim](https://www.zhihu.com/question/19870551)
-
+* [schema](https://social.msdn.microsoft.com/Forums/zh-TW/dbe9c0b6-75c1-40ec-b98b-80e6d4082164/schema-?forum=240)
