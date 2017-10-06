@@ -50,7 +50,6 @@ Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer sc
 
 # 程式設計師的思考方式 - Think like a Programmer
 
----
 
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
@@ -66,15 +65,22 @@ It may be easy to tell a person how to sort a deck of cards, but getting a compu
 
 ### 2. Abstract Thinking
 
-Abstract thinking means finding similarity, or as programmers would say,generalityamongst seemingly different things.
+Abstract thinking 有思索出一件事情的規律或邏輯的意味存在，例如解說的[影片](https://www.youtube.com/watch?time_continue=25&v=aJU6VGa4XHw)裡舉了一個例子，假如1個蘋果加上另一個蘋果是2個蘋果，別人問你一個橘子加上一個橘子，你就可以大概推出答案是2個橘子。然而這背後的 abstract thinking 就是1加1等於2。
+
+Abstract thinking means finding similarity, or as programmers would say,generality amongst seemingly different things.
 
 In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's calledabstractionto avoid unnecessary repetition of work.
 
 ### 3. Systems Thinking
 
+最好的工程師也會犯錯，有系統地找出問題，並追蹤淺在的原因直到找到問題並解決。
+* Systematically identify problems or potential problems
+
 Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
 
 ### 4. Technological Empathy
+了解電腦會如何運作程式碼。
+It involves understanding how the computer sees things
 
 "Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
 
