@@ -48,56 +48,54 @@ Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer sc
 * Back end
 * Something Else....
 
-# 程式設計師的思考方式 - Think like a Programmer
+Nanodegree 的課程裡有很多小測驗(quizzes)和專案，對學習相當有幫助。
 
-學到：https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/eaf0e993-ea8a-47d6-948c-b23d89c55f6e/lessons/edc4d49c-a504-40ee-a6c8-c4f60084ecbf/concepts/35030495730923
+# 程式設計師的思考方式 - Think like a Programmer
 
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
-這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
+這門課一個很大的目標是理解程式設計師的思考方式，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
 
 ### 1. Procedural Thinking
 
-可以把 solution 拆成好幾個步驟來看，
+如果將問題的 solution 拆成好幾個步驟去執行，將這些步驟轉換成程式讓電腦幫你解決問題是相當重要的一件事。如果今天要一個人去將一疊卡片分堆是較簡單的事，如果要讓電腦去做這件事，需要細細去思索，但只要找出方法你會發現電腦做的比人還快。
 
-Procedural thinking involves creating perfectly clear and unambiguous instructions for a computer to follow.
+> Procedural thinking involves creating perfectly clear and unambiguous instructions for a computer to follow.
 
-It may be easy to tell a person how to sort a deck of cards, but getting a computer to do that requires more thought. But once you've learned to think this way you'll find that computers can do itmuchfaster.
+> It may be easy to tell a person how to sort a deck of cards, but getting a computer to do that requires more thought. But once you've learned to think this way you'll find that computers can do it much faster.
 
 ### 2. Abstract Thinking
 
-Abstract thinking 有思索出一件事情的規律或邏輯的意味存在，例如解說的[影片](https://www.youtube.com/watch?time_continue=25&v=aJU6VGa4XHw)裡舉了一個例子，假如1個蘋果加上另一個蘋果是2個蘋果，別人問你一個橘子加上一個橘子，你就可以大概推出答案是2個橘子。然而這背後的 abstract thinking 就是1加1等於2。
+Abstract thinking 是什麼？我覺得可以解釋成思索出一件事情的規律或邏輯，以[影片](https://www.youtube.com/watch?time_continue=25&v=aJU6VGa4XHw)裡舉的例子來說，假如1個蘋果加上另一個蘋果是2個蘋果，別人問你一個橘子加上一個橘子，你就可以大概推出答案是2個橘子。然而這背後的 abstract thinking 就是1加1等於2。
 
-Abstract thinking means finding similarity, or as programmers would say,generality amongst seemingly different things.
+> Abstract thinking means finding similarity, or as programmers would say,generality amongst seemingly different things.
 
-In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's calledabstractionto avoid unnecessary repetition of work.
+> In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's called abstraction to avoid unnecessary repetition of work.
 
 ### 3. Systems Thinking
-將大問題分割成小的組成
+將大問題分割成一小塊一小塊。工程師可能會寫在紙上會拆解問題，去想程式要怎麼跑。
 
-
-Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
+> Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
 
 ### 4. Technological Empathy
 了解電腦會如何運作程式碼。例如我們寫了下面一串程式碼，你要想到這時候 is 會是粗體。
 ```html
 What <b>is</b> this?
 ```
+電腦是一個工具，你不太可能不了解電腦的基礎運作而可以寫出相當扎實的程式。
+> It involves understanding how the computer sees things
 
-It involves understanding how the computer sees things
+> "Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
 
-"Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
-
-A computer is a tool, as are the programs we use and the programming languages used to write them. It's almost impossible to program anything substantial without a basic understanding of how these tools work.
+> A computer is a tool, as are the programs we use and the programming languages used to write them. It's almost impossible to program anything substantial without a basic understanding of how these tools work.
 
 ### 5. Systematic Debugging
 
 最好的工程師也會犯錯，有系統地找出問題，並追蹤淺在的原因直到找到問題並解決。
-* Systematically identify problems or potential problems
 
-Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.
+> Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.
 
-When a program doesn't work, it's because there is a mistake \(also known as a "bug"\) somewhere in the computer code. Since these mistakes are an unavoidable part of programming, every good programmer has a system for fixing them and that system usually looks something like this:
+ When a program doesn't work, it's because there is a mistake \(also known as a "bug"\) somewhere in the computer code. Since these mistakes are an unavoidable part of programming, every good programmer has a system for fixing them and that system usually looks something like this:
 
 1. Collect evidence \(what makes this program fail?\)
 
@@ -106,6 +104,9 @@ When a program doesn't work, it's because there is a mistake \(also known as a "
 3. Test those theories \(if my theory is correct, how could I find out?\)
 
 4. Fix the problem
+
+#學習心態(Learning Mindset)
+會遇到很多困難，自己要激勵自己，如果卡住可以休息一下。持續問問題並努力不懈找答案。
 
 # Learning how to learn
 
