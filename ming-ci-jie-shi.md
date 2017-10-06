@@ -1,4 +1,5 @@
 # 名詞解釋
+* If you find a term you don't get, spend time reading up on it.
 
 * OOP:Object-oriented Programming （物件導向）
 * [ampersand](https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ampersand) 的意思
