@@ -50,6 +50,7 @@ Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer sc
 
 # 程式設計師的思考方式 - Think like a Programmer
 
+學到：https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/eaf0e993-ea8a-47d6-948c-b23d89c55f6e/lessons/edc4d49c-a504-40ee-a6c8-c4f60084ecbf/concepts/35030495730923
 
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
@@ -72,21 +73,27 @@ Abstract thinking means finding similarity, or as programmers would say,generali
 In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's calledabstractionto avoid unnecessary repetition of work.
 
 ### 3. Systems Thinking
+將大問題分割成小的組成
 
-最好的工程師也會犯錯，有系統地找出問題，並追蹤淺在的原因直到找到問題並解決。
-* Systematically identify problems or potential problems
 
 Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
 
 ### 4. Technological Empathy
-了解電腦會如何運作程式碼。
+了解電腦會如何運作程式碼。例如我們寫了下面一串程式碼，你要想到這時候 is 會是粗體。
+```html
+What <b>is</b> this?
+```
+
 It involves understanding how the computer sees things
 
 "Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
 
 A computer is a tool, as are the programs we use and the programming languages used to write them. It's almost impossible to program anything substantial without a basic understanding of how these tools work.
 
-### 5. Debugging
+### 5. Systematic Debugging
+
+最好的工程師也會犯錯，有系統地找出問題，並追蹤淺在的原因直到找到問題並解決。
+* Systematically identify problems or potential problems
 
 Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.
 
