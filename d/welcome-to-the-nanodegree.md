@@ -48,17 +48,17 @@ Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer sc
 * Back end
 * Something Else....
 
-# Think like a Programmer
+# 程式設計師的思考方式 - Think like a Programmer
 
 ---
 
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
-In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
-
-> 這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
+這門課一個很大的目標是 _**to give you practice thinking like a computer programmer**_，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
 
 ### 1. Procedural Thinking
+
+可以把 solution 拆成好幾個步驟來看，
 
 Procedural thinking involves creating perfectly clear and unambiguous instructions for a computer to follow.
 
