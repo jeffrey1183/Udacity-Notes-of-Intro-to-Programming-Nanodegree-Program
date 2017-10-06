@@ -11,21 +11,42 @@
 
 * [Brackets](http://brackets.io/?lang=en)
 
-#建立你的第一個網頁
+# 建立你的第一個網頁
 
-* 打開一個空白檔然後存成 \`.html\`
-    * 為了讓瀏覽器能編譯你的 HTML 程式碼，記得副檔名
+##編輯與儲存你的程式碼
+* 打開一個空白檔
+* 輸入下面這一行程式碼
 
-到這：https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/eaf0e993-ea8a-47d6-948c-b23d89c55f6e/lessons/edc4d49c-a504-40ee-a6c8-c4f60084ecbf/concepts/85406e79-476c-4091-b6c0-1252bd61bd40
+```html
+well, why <b>wouldn’t</b> I learn to code?
+```
 
-* selecting File → Save As…, and giving the file a name like \`my-first-code.html\`
+* 選擇 `File → Save As`，編輯你的檔案名稱，選擇你要存在電腦的哪裡然後按下 `Save` 的按鈕。
+    * 為了讓瀏覽器能編譯你的 HTML 程式碼，不要忘記副檔名 `.html`
 
-#查看你的網頁
 
-從 Browser 去看你的檔案，有兩個方法
+##查看你的網頁
+
+從 browser (Chrome, Safari, Firefox) 去看你的檔案，有兩個方法
 
 1. 連點檔案兩下，用 default 的 browser 開啟;或是右鍵選擇你要的 browser
-2. 你也可以先開 browser 然後從 File → Open File…，記得更改檔案要存檔，然後再 refresh 瀏覽器。
+2. 你也可以先開 browser 然後從 `File → Open File…`，記得更改檔案要存檔，然後再 refresh 瀏覽器。
+
+
+# Nanodegree 是什麼？
+Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer science 的知識。會學到下面三個方面：
+* New knowledge
+* New skills
+* New ways of thinking
+![](/assets/welcomeToTheNano_1.png)
+
+最後你可以試著選擇你接下來要專精的部分：
+* Full stack
+* Front end
+* Android development
+* iOS development
+* Back end
+* Something Else....
 
 # Think like a Programmer
 

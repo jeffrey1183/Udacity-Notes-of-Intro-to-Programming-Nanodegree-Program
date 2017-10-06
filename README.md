@@ -22,6 +22,9 @@ Stage 5: Choose Your Path
 
 Spend more time learning background concepts, rather than becoming fixated on any one tool.
 
+"Coding" a computer means telling a computer what you want it to do by writing text in a way that it can understand.
+
+
 
 
 
