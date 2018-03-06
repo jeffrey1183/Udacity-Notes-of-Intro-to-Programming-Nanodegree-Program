@@ -1,30 +1,42 @@
-You're going to experience coding by making your first webpage.
+#Setting Up
+You're going to experience coding by making your first webpage. You’ll first be writing code in HTML. Before getting started on your own computer, you need two tools going forward:
 
-要建立網頁，你需要先學會寫 HTML 和想像寫出來的程式在瀏覽器裡會長什麼樣子。在開始寫 HTML 之前你需要兩個工具來解決下面兩個問題：
-* 你寫的程式要存在哪裡
-* 要有一個瀏覽器(web browser) 確認程式跑出來的結果(rendered result)
+1. Installing a text editor to save your code
+2. a web browser to view the rendered result.
 
-# 你寫的程式要存在哪裡
-為了解決編輯與儲存程式的問題，下面我們提供三個程式編輯器(code editors) 的網站供你選擇，最推薦的是 Atom 這個編輯器。
 
-* [Atom](https://atom.io/%29)  \(recommended\)
 
-* [Sublime Text](https://www.sublimetext.com/)
+> 接下來我們將會製作你的第一個網頁，你會用 HTML 來寫網頁。開始之前有兩件事要做：
+1. 安裝編輯器儲存你的程式碼
+2. 要有一個瀏覽器(web browser) 確認程式跑出來的結果(rendered result)
 
-* [Brackets](http://brackets.io/?lang=en)
 
-# 建立你的第一個網頁
 
-##編輯與儲存你的程式碼
-* 打開一個空白檔
-* 輸入下面這一行程式碼
+A text editor is just a piece of software that allows programmers to compose, edit, and save code
+
+Most of them offer similar functionality. We recommended the [Atom](https://atom.io/).
+
+>編輯器讓工程師可以編輯、儲存程式碼，大部分編輯器的功能都差不多，這邊推薦使用 Atom。
+
+
+
+#Building Your First Web Page
+
+###Writing and Saving Your Code
+1. Open your text editor so that you’re looking at a blank file. 
+
+2. Type the following code (exactly as shown) into the blank file
+
+3. Save your code as an HTML file by navigating to the menu bar, selecting File → Save As…, and giving the file a name like my-first-code.html. Note the location on your computer where you’re saving this file. Then, hit the Save button.
+
+> 我們先來建立你的第一個網頁，打開你安裝好的編輯器，輸入下面這一行程式碼
 
 ```html
 well, why <b>wouldn’t</b> I learn to code?
 ```
 
-* 選擇 `File → Save As`，編輯你的檔案名稱，選擇你要存在電腦的哪裡然後按下 `Save` 的按鈕。
-    * 為了讓瀏覽器能編譯你的 HTML 程式碼，不要忘記副檔名 `.html`
+選擇 `File → Save As`，編輯你的檔案名稱，選擇你要存在電腦的哪裡然後按下 `Save` 的按鈕。
+為了讓瀏覽器能編譯你的 HTML 程式碼，不要忘記副檔名 `.html`
 
 
 ##查看你的網頁
