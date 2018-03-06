@@ -1,3 +1,5 @@
+You're going to experience coding by making your first webpage.
+
 要建立網頁，你需要先學會寫 HTML 和想像寫出來的程式在瀏覽器裡會長什麼樣子。在開始寫 HTML 之前你需要兩個工具來解決下面兩個問題：
 * 你寫的程式要存在哪裡
 * 要有一個瀏覽器(web browser) 確認程式跑出來的結果(rendered result)

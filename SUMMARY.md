@@ -1,7 +1,7 @@
 # Summary
 
-* [課程大綱](README.md)
-* [名詞解釋](ming-ci-jie-shi.md)
+* [Intro](README.md)
+* [Glossary](ming-ci-jie-shi.md)
 * [1. Learn to Code](d.md)
   * [Lesson 1:Welcome to the Nanodegree](d/welcome-to-the-nanodegree.md)
   * [Lesson 2:Nanodegree Orientation](d/nanodegree-orientation.md)

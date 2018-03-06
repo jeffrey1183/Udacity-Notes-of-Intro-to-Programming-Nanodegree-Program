@@ -1,20 +1,12 @@
-筆記的目的是讓忘記的部分能快速回憶起來。
+The purpose of taking notes is recap the things I learned quickly. 
+> 我寫筆記的目的是讓自己快速回憶起學過的東西。
 
-# Intro to Programming Nanodegree
+# Core Curriculum
+It has five parts in the course and each course has a project.
 
-Welcome to the Nanodegree
+PART 1：Learn to Code
 
-Stage 0: Getting Started with HTML
 
-Stage 1: Make a Web Page
-
-Stage 2: Code Your Own Quiz
-
-Stage 3: Create a Movie Website
-
-Stage 4: Discover Your Path
-
-Stage 5: Choose Your Path
 
 
 

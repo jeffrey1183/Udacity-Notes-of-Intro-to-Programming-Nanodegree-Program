@@ -1,5 +1,7 @@
-# 名詞解釋
-* If you find a term you don't get, spend time reading up on it.
+# Glossary (名詞解釋)
+
+Collect the terms I don't get, spend time reading up on it.
+>將一些課程中的專有名詞蒐集在這裡。
 
 * OOP:Object-oriented Programming （物件導向）
 * [ampersand](https://www.google.com.tw/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ampersand) 的意思
