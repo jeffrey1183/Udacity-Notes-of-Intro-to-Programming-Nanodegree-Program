@@ -29,32 +29,51 @@ Most of them offer similar functionality. We recommended the [Atom](https://atom
 
 3. Save your code as an HTML file by navigating to the menu bar, selecting File → Save As…, and giving the file a name like my-first-code.html. Note the location on your computer where you’re saving this file. Then, hit the Save button.
 
-> 我們先來建立你的第一個網頁，打開你安裝好的編輯器，輸入下面這一行程式碼
-
 ```html
 well, why <b>wouldn’t</b> I learn to code?
 ```
 
-選擇 `File → Save As`，編輯你的檔案名稱，選擇你要存在電腦的哪裡然後按下 `Save` 的按鈕。
-為了讓瀏覽器能編譯你的 HTML 程式碼，不要忘記副檔名 `.html`
+
+> 我們先來建立你的第一個網頁，打開你安裝好的編輯器，輸入上面這一行程式碼。接著選擇 `File → Save As`，編輯你的檔案名稱，選擇你要存在電腦的哪裡然後按下 `Save` 的按鈕。
+
+> 為了讓瀏覽器能編譯你的 HTML 程式碼，不要忘記副檔名 `.html`
+
+###Viewing the Rendered Web Page
+It’s now time to view the rendered web page in a browser like Chrome, Safari, or Firefox.
+
+There are a couple of ways you can do this:
+
+* You can find the HTML file on your computer and double-click on it to open it. (On Mac, you can use the Finder to reach the file location, and on Windows, you can use My Computer.) Most often, your computer will be set up to open the HTML file in your default web browser. If, however, this doesn’t happen, you can simply right-click on the file, and choose to open it in a browser by selecting, for example, Open With → Google Chrome.
+
+* Alternatively, you can open up a web browser and then open your HTML file directly through the browser's interface. In Chrome, for instance, this would involve navigating to the menu bar and selecting File → Open File…. You’d then select the HTML file that you saved on your computer and click Open to view the rendered web page in your browser window.
 
 
-##查看你的網頁
+> 從 browser (Chrome, Safari, Firefox) 去看你的檔案，有兩個方法：
 
-從 browser (Chrome, Safari, Firefox) 去看你的檔案，有兩個方法
-
-1. 連點檔案兩下，用 default 的 browser 開啟;或是右鍵選擇你要的 browser
+>1. 連點檔案兩下，用 default 的 browser 開啟;或是右鍵選擇你要的 browser
 2. 你也可以先開 browser 然後從 `File → Open File…`，記得更改檔案要存檔，然後再 refresh 瀏覽器。
 
 
-# Nanodegree 是什麼？
-Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer science 的知識。會學到下面三個方面：
+# Nanodegree Overview
+Nanadegree is a path starting from nothing. You'll gain three important things:
+
 * New knowledge
 * New skills
 * New ways of thinking
+
 ![](/assets/welcomeToTheNano_1.png)
 
-最後你可以試著選擇你接下來要專精的部分：
+
+
+At end of point, there are many paths you can choose.
+
+
+>Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer science 的知識。會學到下面三個方面：
+* New knowledge
+* New skills
+* New ways of thinking
+
+>最後你可以試著選擇你接下來要專精的部分：
 * Full stack
 * Front end
 * Android development
@@ -62,7 +81,9 @@ Nanodegree 會帶初學者從什麼都不懂到了解一些基礎的 computer sc
 * Back end
 * Something Else....
 
-Nanodegree 的課程裡有很多小測驗(quizzes)和專案，對學習相當有幫助。
+>Nanodegree 的課程裡有很多小測驗(quizzes)和專案，對學習相當有幫助。
+
+到這裡https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/eaf0e993-ea8a-47d6-948c-b23d89c55f6e/lessons/edc4d49c-a504-40ee-a6c8-c4f60084ecbf/concepts/36212186400923
 
 # 程式設計師的思考方式 - Think like a Programmer
 
