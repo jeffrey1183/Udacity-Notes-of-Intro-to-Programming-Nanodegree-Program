@@ -1,3 +1,6 @@
+
+
+
 課程注重實踐中學習(learning by doing)，完成課程時會完成一些專案，這一個 lesson 更詳細地介紹 Nanodegree 的運作方式，從專案(project) 到社群(community) 甚至是職業發展。
 
 #Udacity 團隊提供的協助

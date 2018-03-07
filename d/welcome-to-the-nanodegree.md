@@ -1,3 +1,12 @@
+#How This Will Work
+This Nanodegree program is...
+
+Composed of a series of lesson videos, quizzes, and projects that will ask you to demonstrate the skills you just learned. These projects will cover a wide range of topics, from web development to computer science fundamentals to understanding the roles of engineers in a tech company.
+
+Each section is a collage of content sampled from a variety of classes taught by professional programmers, tech company creators, and university professors.
+
+>這門課是由許多專業的工程師與大學教授共同編輯而成，課程會有影片、小考與實際的一些專案，專案涵蓋網站開發、電腦科學的基礎應用，可以幫助我們了解軟體公司內的工程師職務類別。
+
 #Setting Up
 You're going to experience coding by making your first webpage. You’ll first be writing code in HTML. Before getting started on your own computer, you need two tools going forward:
 
@@ -83,52 +92,59 @@ At end of point, there are many paths you can choose.
 
 >Nanodegree 的課程裡有很多小測驗(quizzes)和專案，對學習相當有幫助。
 
-到這裡https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/eaf0e993-ea8a-47d6-948c-b23d89c55f6e/lessons/edc4d49c-a504-40ee-a6c8-c4f60084ecbf/concepts/36212186400923
 
-# 程式設計師的思考方式 - Think like a Programmer
-
+# Thinking Like a Programmer
+Focus on 5 ways thinking all programmers must do.
 ![](/assets/螢幕快照 2017-03-15 下午11.03.10.png)
 
-這門課一個很大的目標是理解程式設計師的思考方式，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
+>這門課一個很大的目標是理解程式設計師的思考方式，然而什麼是 thinking like a computer programmer 呢？下面我們用五個面向來看：
+
+
 
 ### 1. Procedural Thinking
+Procedural thinking involves creating perfectly clear and unambiguous instructions for a computer to follow.
 
-如果將問題的 solution 拆成好幾個步驟去執行，將這些步驟轉換成程式讓電腦幫你解決問題是相當重要的一件事。如果今天要一個人去將一疊卡片分堆是較簡單的事，如果要讓電腦去做這件事，需要細細去思索，但只要找出方法你會發現電腦做的比人還快。
+It may be easy to tell a person how to sort a deck of cards, but getting a computer to do that requires more thought. But once you've learned to think this way you'll find that computers can do it much faster.
 
-> Procedural thinking involves creating perfectly clear and unambiguous instructions for a computer to follow.
+> 如果將問題的 solution 拆成好幾個步驟去執行，將這些步驟轉換成程式讓電腦幫你解決問題是相當重要的一件事。如果今天要一個人去將一疊卡片分堆是較簡單的事，如果要讓電腦去做這件事，需要細細去思索，但只要找出方法你會發現電腦做的比人還快。
 
-> It may be easy to tell a person how to sort a deck of cards, but getting a computer to do that requires more thought. But once you've learned to think this way you'll find that computers can do it much faster.
 
 ### 2. Abstract Thinking
 
-Abstract thinking 是什麼？我覺得可以解釋成思索出一件事情的規律或邏輯，以[影片](https://www.youtube.com/watch?time_continue=25&v=aJU6VGa4XHw)裡舉的例子來說，假如1個蘋果加上另一個蘋果是2個蘋果，別人問你一個橘子加上一個橘子，你就可以大概推出答案是2個橘子。然而這背後的 abstract thinking 就是1加1等於2。
+Abstract thinking means finding similarity, or as programmers would say,generality amongst seemingly different things.
 
-> Abstract thinking means finding similarity, or as programmers would say,generality amongst seemingly different things.
+In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's called abstraction to avoid unnecessary repetition of work.
 
-> In this Nanodegree you will visit hundreds of Udacity web pages. It would be impractical for a programmer to specifically program each of these pages individually. The Udacity programmers used the power of what's called abstraction to avoid unnecessary repetition of work.
+
+>Abstract thinking 是什麼？我覺得可以解釋成思索出一件事情的規律或邏輯，以[影片](https://www.youtube.com/watch?time_continue=25&v=aJU6VGa4XHw)裡舉的例子來說，假如1個蘋果加上另一個蘋果是2個蘋果，別人問你一個橘子加上一個橘子，你就可以大概推出答案是2個橘子。然而這背後的 abstract thinking 就是1加1等於2。
+
+
 
 ### 3. Systems Thinking
-將大問題分割成一小塊一小塊。工程師可能會寫在紙上會拆解問題，去想程式要怎麼跑。
+Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
 
-> Systems thinking happens when you break a big problem down into smaller pieces. Programmers do this when they create a plan \(often on paper\) for how a program will work. It involves big-picture thinking and decision-making about a problem and how different pieces of a program can work together to solve it. If this is unclear now, don't worry! You'll understand what this means much more clearly by the end of the Nanodegree.
+> 將大問題分割成一小塊一小塊。工程師可能會寫在紙上會拆解問題，去想程式要怎麼跑。
+
+
 
 ### 4. Technological Empathy
-了解電腦會如何運作程式碼。例如我們寫了下面一串程式碼，你要想到這時候 is 會是粗體。
+
+It involves understanding how the computer sees things
+
+"Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
+
+A computer is a tool, as are the programs we use and the programming languages used to write them. It's almost impossible to program anything substantial without a basic understanding of how these tools work.
+
+
+> 了解電腦會如何運作程式碼。例如我們寫了下面一串程式碼，你要想到這時候 is 會是粗體。
 ```html
 What <b>is</b> this?
 ```
 電腦是一個工具，你不太可能不了解電腦的基礎運作而可以寫出相當扎實的程式。
-> It involves understanding how the computer sees things
 
-> "Technological empathy" comes in many forms. For example, computer empathy is the ability to understand what a computer is, how it works, and what it's good and bad at doing.
-
-> A computer is a tool, as are the programs we use and the programming languages used to write them. It's almost impossible to program anything substantial without a basic understanding of how these tools work.
 
 ### 5. Systematic Debugging
-
-最好的工程師也會犯錯，有系統地找出問題，並追蹤淺在的原因直到找到問題並解決。
-
-> Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.
+Debugging is a systematic process of relentlessly identifying the cause of a computer program that doesn't work.
 
  When a program doesn't work, it's because there is a mistake \(also known as a "bug"\) somewhere in the computer code. Since these mistakes are an unavoidable part of programming, every good programmer has a system for fixing them and that system usually looks something like this:
 
@@ -140,14 +156,13 @@ What <b>is</b> this?
 
 4. Fix the problem
 
-#學習心態(Learning Mindset)
-會遇到很多困難，自己要激勵自己，如果卡住可以休息一下。持續問問題並努力不懈找答案。
+> 最好的工程師也會犯錯，有系統地找出問題，並追蹤淺在的原因直到找到問題並解決。
 
-# Learning how to learn
+# Learning Mindset
+To be successful, you'll need to be self-motivated to learn. This program will be challenging, and it may be tempting to take a long break or even stop when you get stuck. Students who persevere, are consistent, and seek out answers on their own are best suited to succeed. Keep asking questions, and never give up! In a later lesson, we'll go into more detail on the topic of learning mindsets.
 
-![](https://lh5.googleusercontent.com/uuLrX7t3FJ3KTWdR3Tnx5Yc-7SX4eoKUgAJmR8ME9mvfdFWIRYRGtap5xqAAYxIX0TKXvRnEklfuH8Ap9aTYgFVydPAGowai_4C0WKvaOYiMCOU5m_fSjb8nN7JHFaMnvk5W8nXB)
+> 學習上會遇到很多困難，需要自己激勵一下自己，如果卡住可以休息一下。持續問問題並努力不懈找答案。
 
-* 把學習的內容分成三種類型，真正的學習在這三種狀態中震盪
 
 
 

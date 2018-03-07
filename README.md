@@ -1,5 +1,5 @@
-The purpose of taking notes is recap the things I learned quickly. 
-> 我寫筆記的目的是讓自己快速回憶起學過的東西。
+The purpose of taking notes is recap the things I learned quickly. The note has two language, English and Chinese.
+> 我寫筆記的目的是讓自己快速回憶起學過的東西。筆記內包含英文與中文解釋。
 
 # Core Curriculum
 It has five parts in the course and each course has a project.
