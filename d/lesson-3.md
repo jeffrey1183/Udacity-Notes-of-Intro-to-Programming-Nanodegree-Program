@@ -1,3 +1,7 @@
+#One Perk of Using Atom — Previewing HTML
+Normally, you’ll be writing code in a text editor, saving it as an HTML file, and opening that file in a browser to view the rendered web page. One convenience with using Atom as a text editor is that you can write your HTML code and also preview the web page right inside the editor as you make changes. You can split your window to see both views simultaneously, as shown below.
+
+
 這一個 lesson 會完成一個小專案，寫出一個 HTML 檔案，檔案裡彙整了接下來的一些筆記。
 
 首先我們需要先安裝 Atom，安裝完成後
@@ -35,6 +39,18 @@
 
 
 
+
+#To see a preview of your HTML, follow these steps:
+
+1. Open your HTML file.
+2. Preview your HTML by typing on the keyboard: `Ctrl + Shift + H`
+
+You should now see your screen split into left and right panes, with the HTML preview displayed on the right.
+
+Note that, in general, you can split your screen into panes by going to the menu bar, selecting `View → Panes`, and choosing, for example, `Split Right`. Once you’ve split your screen, you can hover over the divider, click, and drag to adjust the pane width.
+
+
+
 # 在 Atom 預覽 HTML 的步驟
 
 1. 打開你的 HTML 檔案
@@ -48,8 +64,4 @@
 在選單的 View → Panes 你還可以做很多設定去調整 pane。
 
 ![](/assets/lesson3worldWideWeb_4.png)
-
-
-到這邊
-https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/8f2b6689-b7fd-4c54-9c13-99bb29278990/lessons/9a1a537b-3993-45b8-ad7e-6e44c8d57802/concepts/81ece62b-3b01-4dd1-a214-dcd5181d0309
 
