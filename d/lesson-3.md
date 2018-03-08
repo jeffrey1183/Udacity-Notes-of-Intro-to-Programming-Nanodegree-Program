@@ -1,27 +1,19 @@
-#One Perk of Using Atom — Previewing HTML
-Normally, you’ll be writing code in a text editor, saving it as an HTML file, and opening that file in a browser to view the rendered web page. One convenience with using Atom as a text editor is that you can write your HTML code and also preview the web page right inside the editor as you make changes. You can split your window to see both views simultaneously, as shown below.
-
-
-這一個 lesson 會完成一個小專案，寫出一個 HTML 檔案，檔案裡彙整了接下來的一些筆記。
-
-首先我們需要先安裝 Atom，安裝完成後
-1. 選擇 File->New File
-2. 選擇 File->Save As 存檔，檔名叫 notes.html
-3. 存完之後確認存好的檔案名有副檔名 .html
-
-
-# Atom 的基本介紹
-
-寫程式需要一個好用的編輯器，Atom 這個編輯器的好處是邊寫程式一邊還可以預覽網頁，馬上可以看到你的修改。 另外你還可以切畫面。
-
-你可以從 View→Panes 去切畫面，例如下面的圖是 Split Right，開啟後你還可以調整視窗的寬度。
+#Previewing HTML in Atom
+In Atom, you can edit HTML and preview the resulting web page in split window. On the left, we see our HTML code, and on the right, we see a preview of the web page.
 
 ![](https://lh4.googleusercontent.com/o0sweEC-g_3GtPg6RvHUP-li3uE8yQQqjbawY15Gi9TVN4UOPSIyiE6hcFMuuV6ApcBwTQE_rN3d8ZRfOtfNwlBzmkQK14Zd1j9WVCwEcwp_JqodoPdDhySRea8mXBZNR3pek8gJ "Screen Shot 2017-01-31 at 2.51.13 PM.png")
 
+>寫程式需要一個好用的編輯器，Atom 這個編輯器的好處是邊寫程式一邊還可以預覽頁面，馬上可以看到你的修改。 另外你還可以切畫面。
+
+>你可以從 View→Panes 去切畫面，例如下面的圖是 Split Right，開啟後你還可以調整視窗的寬度。
 
 
+#Installing The `atom-html-preview` Package
+If you’d like to set up your Atom workspace this way, you can go through the following steps to install what’s called the [atom-html-preview](https://atom.io/packages/atom-html-preview) package. Otherwise, feel free to skip these instructions and just use your browser to view your HTML documents.
 
-# 安裝 atom-html-preview package
+>在 [atom-html-preview](https://atom.io/packages/atom-html-preview) 安裝預覽 HTML 的插件。
+
+### 安裝 atom-html-preview package(中文版)
 
 按照下面的步驟安裝 package 後就能預覽 HTML 的檔案。
 
@@ -38,8 +30,6 @@ Normally, you’ll be writing code in a text editor, saving it as an HTML file, 
 4. 安裝完成後就可以關掉 `Setting`
 
 
-
-
 #To see a preview of your HTML, follow these steps:
 
 1. Open your HTML file.
@@ -49,9 +39,7 @@ You should now see your screen split into left and right panes, with the HTML pr
 
 Note that, in general, you can split your screen into panes by going to the menu bar, selecting `View → Panes`, and choosing, for example, `Split Right`. Once you’ve split your screen, you can hover over the divider, click, and drag to adjust the pane width.
 
-
-
-# 在 Atom 預覽 HTML 的步驟
+###在 Atom 預覽 HTML 的步驟(中文版)
 
 1. 打開你的 HTML 檔案
 
@@ -64,4 +52,8 @@ Note that, in general, you can split your screen into panes by going to the menu
 在選單的 View → Panes 你還可以做很多設定去調整 pane。
 
 ![](/assets/lesson3worldWideWeb_4.png)
+
+
+
+
 

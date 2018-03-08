@@ -6,6 +6,7 @@
   * [Lesson 1:Welcome to the Nanodegree](d/welcome-to-the-nanodegree.md)
   * [Lesson 2:Nanodegree Orientation](d/nanodegree-orientation.md)
   * [Lesson 3:The World Wide Web](d/lesson-3.md)
+    * [Introduction to the Web](d/lesson-3/introduction-to-the-web.md)
 * [Stage 1：Make a Web Page](stage1.md)
   * [1.1 The Basic of the Web and HTML](stage1/11-the-basic-of-the-web-and-html.md)
   * [1.2 Creating a Structured Document](stage1/12-creating-a-structured-document.md)
