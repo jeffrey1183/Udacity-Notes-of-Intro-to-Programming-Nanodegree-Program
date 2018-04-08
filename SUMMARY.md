@@ -7,6 +7,7 @@
   * [Lesson 2: Nanodegree Orientation](d/nanodegree-orientation.md)
   * [Lesson 3: The World Wide Web](d/lesson-3.md)
     * [Introduction to the Web](d/lesson-3/introduction-to-the-web.md)
+    * [Previewing HTML in Atom](d/lesson-3/previewing-html-in-atom.md)
   * [Lesson 4: HTML Basics](d/lesson-4what-is-html.md)
   * [Project: Getting Started with HTML](d/project-getting-started-with-html.md)
 * [Stage 1：Make a Web Page](stage1.md)

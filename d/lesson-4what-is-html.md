@@ -1,10 +1,16 @@
-# What is HTML?
+看這邊要寫什麼前言可能要自己想，把下面的課拆成文章
+
+
+
+
+
+
+# [What is HTML?](https://www.youtube.com/watch?time_continue=19&v=5Kjx-NOwcSc)
 HTML is the heart of web. HTML is made of:
 * text content(what you see)
-* markup( what it looks like)
+* markup( what the content looks like)
 * references to other documents
 * links to other pages
-![](https://lh3.googleusercontent.com/g3bgYAj-bx5tnkpYX2KGsbPrk37pZfoJdyzDxYVxffDfKsDD4ft55o-ALhKWXSOEpMlTpd8qp5oQkPk6kux3c-WK5Vw_GLnrrU5qxx5C4gHzmNtTdi-fD110NhSnUffjeXJ3INTi)
 
 
 
@@ -27,21 +33,6 @@ HTML markup is make up of tags. The whole thing includes tags, we call element. 
 
 
 
-## World Wide Web
-
-* A collection of HTML(Hypertext Markup Languages) documents
-
-## HTML
-* HyperText Markup Language
-
-
-
-
-
-
-## Internet 
-
-![](https://lh4.googleusercontent.com/UNJJphreNQXvvEURWpWpVfQxbcTQpQS6D7B8UJ9a2_T8JF9_DbwttKVN8qcrtG8c6Enh5NdQTyutJsFw8l-XEs-qrYULxkv7HLecIm8CjmvEES1pwtW-15D9iusxnakH86rHiKtk)
 
 
 
