@@ -1,30 +1,15 @@
 In this lesson you'll gain:
 * What is HTML?
-* HTML Markup
+* Intro to HTML Tags
 
 
 
 
 
+# 看到 Computers Are Stupid
 
 
 
-## Tag
-
-* 在 [HTML formatting](http://www.w3schools.com/html/html_formatting.asp) 可以找到，許多常見 tag，例如
-* `<b>` - Bold text
-* `<strong>` - Important text
-* `<i>` - Italic text
-* `<em>` - Emphasized text
-* `<mark>` - Marked text
-* `<small>` - Small text
-* `<del>` - Deleted text
-* `<ins>` - Inserted text
-* `<sub>` - Subscript text
-* `<sup>` - Superscript text
-![](https://lh5.googleusercontent.com/xohhu_Kaxq4tZZ9W4fL1_EFPDAhiroOuKsAeP_bEcAZziisBvmDWIyn2VJ7wVGypINmxI0Dp3kizszpZkdnOBKkAm6EWOJMd6FW2lSlG_EopyElEZUak8SygwRa73TNfAzTnF5Ph)
-
-* 如果你忘記加 closing tag，在opening tag後的字都會變斜體。
 
 ## HTML Attribute
 * 介紹 tag 的 attribute 與 value

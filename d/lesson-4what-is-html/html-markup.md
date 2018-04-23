@@ -9,5 +9,23 @@ The whole thing includes tags, we call element.
 
 
 
+# Common Tags
+There are [common tags](http://www.w3schools.com/html/html_formatting.asp) you have to know.
+
+> 下面是一些 [常見的 tag](http://www.w3schools.com/html/html_formatting.asp) 
+
+* `<b>` - Bold text
+* `<strong>` - Important text
+* `<i>` - Italic text
+* `<em>` - Emphasized text
+* `<mark>` - Marked text
+* `<small>` - Small text
+* `<del>` - Deleted text
+* `<ins>` - Inserted text
+* `<sub>` - Subscript text
+* `<sup>` - Superscript text
+
+* 如果你忘記加 closing tag，在opening tag後的字都會變斜體。
+
 
 
