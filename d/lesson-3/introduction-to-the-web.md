@@ -1,8 +1,10 @@
-#World Wide Web
+#[World Wide Web](https://www.youtube.com/watch?time_continue=5&v=NBI9kXzMHS0)
 
-World wide web is a collection of HTML documents. HTML stands for hypertext markup language. HTML glues the things like image, videos. The web is invented in 1990s.
+The web is invented in 1990s.
 
-> World wide web 包含主要由 HTML 檔案組成，HTML 的完整名稱是 hypertext markup language，檔案內可以放圖片、文字、影片等。 web 在 1990 發明，文字、圖片、音樂、HTML 等檔案類型都可以在 web 上找到。
+World wide web is a collection of HTML documents. HTML stands for hypertext markup language. HTML glues the things like image, videos. The links between this pages called hyperlinks or links for short.
+
+> web 在 1990 發明， World wide web 包含主要由 HTML 檔案組成，HTML 的完整名稱是 hypertext markup language，檔案內可以放圖片、文字、影片，頁面之間的連結我們叫 hyperlinks 或 links。
 
 #Components of the Web
 Your browser makes requests via the Internet to servers. These requests are using a protocol called HTTP. And the servers respond with files that the browser displays.

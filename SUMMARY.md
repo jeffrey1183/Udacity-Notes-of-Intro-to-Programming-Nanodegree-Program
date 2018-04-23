@@ -9,6 +9,8 @@
     * [Introduction to the Web](d/lesson-3/introduction-to-the-web.md)
     * [Previewing HTML in Atom](d/lesson-3/previewing-html-in-atom.md)
   * [Lesson 4: HTML Basics](d/lesson-4what-is-html.md)
+    * [What is HTML?](d/lesson-4what-is-html/what-is-html.md)
+    * [Intro to HTML Tags](d/lesson-4what-is-html/html-markup.md)
   * [Project: Getting Started with HTML](d/project-getting-started-with-html.md)
 * [Stage 1：Make a Web Page](stage1.md)
   * [1.1 The Basic of the Web and HTML](stage1/11-the-basic-of-the-web-and-html.md)
