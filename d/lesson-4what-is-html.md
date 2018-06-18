@@ -3,60 +3,15 @@ In this lesson you'll gain:
 * Intro to HTML Tags
 
 
-
-
-
-# 看到 Computers Are Stupid
-
-
-
-
-## HTML Attribute
-* 介紹 tag 的 attribute 與 value
-![](https://lh4.googleusercontent.com/HLyxq0YzLcRhBQUag9gSPOHnE18h8O42slm_0YyRxlScsneqaNqCtZ6iM0pDt4gRbTNXdAy0aPaiOgR1uJyOhBE58cJowPaNAkdLRVFqohCmu0fxI0Me7I7HSZibAkDOxhTq8T-2)
+[看到這裡 HTML Attribute](https://classroom.udacity.com/nanodegrees/nd000/parts/b920608d-be3c-4d5f-851f-6ab3eeb8997b/modules/8f2b6689-b7fd-4c54-9c13-99bb29278990/lessons/404b6925-2a6e-4617-8818-3bd890906f75/concepts/d43e07bd-4d76-41b7-8206-432c4a9b60c2)
 
 
 
 
 
 
-## Images Tag
-* 以 image tag 當例子，src 與 alt 是 attributes，url 跟 text 是 value。
-
-![](https://lh4.googleusercontent.com/IWGJRWiA7gotFzri7C9Y40luRr_0GYQUXquMtnBha2UyTMTGcEzFhHG-Pf6ZENIIYTvafoQRn5YkarZ59EOXJ9S9fdiGKc_i3irvdEyFgeuRZLaXQ0zhpwSuyjINn_rvZWwuzin8)
 
 
-* alt attribute
- * alt 的全稱是 alternate，當圖片連結失效的時候，就會顯示 alt 內的設定的字串。
-
-* void tag 是指一個 tag 並沒有 content，他不需要一個 closing tag
-* break 是換行的意思
-
-##Whitespace
-* 空格與換行的使用
- * 在 html 裡就算你空很多空格，但實際上只有一個
- *  `<p>` tag 的 p 是 paragraph, 段落的意思。
-
-
-![](https://lh6.googleusercontent.com/iZt7H-X4pb4a3fqXKNZq0ytqAs_3jtuWoeUoOIuV_RAHnFjw8R8mqDg2y-xMPRHu8luKP-AhU5ZkCXSrHB5NxAT2UEfP1UzfVn161MazBaH0N2SxMiuPNUCiAGBIKYoLeNz_eRH-)
-
-範例1
-
-![](https://lh5.googleusercontent.com/B-DleTUXtOgLEi-EVz6pRwVSBwP31_CPhGDDDk-cQBp3JFfH9VPYq6kHN850Td8JX4Ati--t2h8fzQEAHHsH5tuW9Fg1-fRGT37g8ArZCax9j-fGzBZoTOOMjxQdxqKNJdvg8ZQ0)
-
-
-
-## Inline/Block Element
-
-* [官方解釋](https://www.w3schools.com/html/html_blocks.asp), creating "invisible boxes"
-
-
-* block element 像 `<div>`、`<p>` 這些 tag。會創造有長和寬的空間，他會是一整塊跟畫面的寬度相同的空間，且從左開始。
-* inline element 則不會是一整塊與畫面一樣寬的區塊，他的寬度會依照需要多少空間而不同。像 `<img>`、`<span>`。
-
-![](https://lh4.googleusercontent.com/i4eEa_-2IJLg8hLGYsd67ET9uNpipgGzQdiOGW1bRXNpmu7O39RZ0zDQgyD_mUtfgTRkbYbtsLlSvb87LMkWYK40DqvgJTGZJ80mXvrDjWKXykAX2l3jyJq-gyNOF669im-ApeHD)
-
-![](https://lh4.googleusercontent.com/vfLdVMUlhRavQ_fADnpV7wm_Wspj7DHGJduVoSNXdbMw9uxzMDQOcgRmeOLSVKFdHZn6Gc7grydM4FifTlEOLa6h14J91QoK4SjaLUm3f1DcZPQkeiwunT27ovDMxoKRNeLP4lhe)
 
 ### Quiz
 * 哪些 elements 是 inline element?
